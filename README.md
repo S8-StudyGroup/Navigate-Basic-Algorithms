@@ -34,11 +34,25 @@
 
 <br/><details>
   <summary>
+    <b>팀 규칙</b>
+  </summary>
+  
+  <div markdown="1">
+    <ul>
+      <li>업로드 예정</li>
+    </ul>
+  </div>
+</details>
+
+<br/><details>
+  <summary>
     <b>팀원 규칙</b>
   </summary>
   
   <div markdown="1">
-  업로드 예정
+    <ul>
+      <li>업로드 예정</li>
+    </ul>
   </div>
 </details>
 
@@ -59,7 +73,7 @@
         </ul>
       </ul>
       <br/><li><b>폴더 구조</b></li><br/>
-      <img src="https://user-images.githubusercontent.com/89143804/181903002-eb8c42d9-53bc-4354-b45d-a82909e96eee.png" alt="structure_of_folder">
+      <img src="https://user-images.githubusercontent.com/89143804/181919511-b2c84e43-086d-4f66-8074-68c2470053f9.png" alt="structure_of_folder">
     </ul>
   </div>
 </details>
@@ -74,7 +88,7 @@
       <br/><li><b>NBA Commit message 구조</b></li><br/>
       <ol>
         <li>원래 기본적으로 Commit message는 제목, 본문, 꼬리말로 구성되지만, 기초 알고리즘을 푸는 교육생임을 감안하여 <b>제목</b>만을 작성합니다.</li><br/>
-        <li>위에서 언급한 <b>제목</b>은 커밋 명령어인 <b><code>git commit -m "커밋 메세지"</code></b>에서 <b><code>"커밋 메세지"</code></b>를 뜻하며, 편의상 커밋 메세지라고 부르겠습니다.</li><br/>
+        <li>위에서 언급한 <b>제목</b>은 커밋 명령어인 <b><code>git commit -m "커밋 메세지"</code></b>에서 <b><code>"커밋 메세지"</code></b>를 뜻하며, 편의상 <b>커밋 메세지</b>라고 부르겠습니다.</li><br/>
         <li><b style="background-color : #E26B1B; color: white;">커밋 메세지는 다음과 같은 양식으로 작성합니다.</b><br/><br/>
           <code>"<타입>: <내용>"</code><br/><br/>
         </li>
@@ -89,16 +103,7 @@
           </ul>
         </li><br/>
         <li><b style="background-color : #E26B1B; color: white;">커밋 예시</b></li><br/>
-        <code>
-        # 알고리즘 해결(미해결) 문제 업로드<br/>
-        git commit -m "Feat: 0000번 문제 해결(미해결)"<br/><br/>
-        # 알고리즘 해결 문제 코드 수정<br/>
-        git commit -m "Feat: 0000번 문제 코드 수정"<br/><br/>
-        # 알고리즘 해결 문제 변수 이름 변경<br>
-        git commit -m "Refactor: 0000번 문제 변수 이름 변경"<br/><br/>
-        # 관련 개념 파일 추가(수정)<br/>
-        git commit -m "Docs: 타입_변환 파일 추가(수정)"
-        </code>
+        <img src="https://user-images.githubusercontent.com/89143804/181919597-869a28d5-8e0f-4837-b4f8-243a1e87da19.png" alt="commit_example">
       </ul><br/>
       <li><b>NBA Commit message 규칙</b></li><br/>
       <ol>
@@ -110,11 +115,23 @@
   </div>
 </details>
 
-<br/><details> <summary><b>협업 방식</b></summary> <div markdown="1"> 업로드 예정 </div> </details><br/>
+<br/><details>
+  <summary>
+    <b>관련 개념 정리</b>
+  </summary>
+  
+  <div markdown="1">
+    <ul>
+    <li>매주 해결하는 알고리즘 문제들과 관련된 개념들을 정리하여 <b>노션</b>에 업로드합니다.</li>
+    <li>월말에 각자의 개념정리 페이지 및 그동안의 회의를 토대로 팀원끼리 익명투표하여 <b>참여우수 교육생</b>을 선발합니다.</li>
+    <li><b>매월 참여우수 교육생은 월말 결과보고서에 우수 교육생 관련하여 이름이 기재될 예정입니다.</b></li>
+    </ul>
+  </div>
+</details><br/>
 
+## <br/>📒 **세부 계획**
 
-
-### 📖 **1주차** (22.08.01 ~ 22.08.07)
+### <br/>📖 **1주차** (22.08.01 ~ 22.08.07)
 
 | 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자 | 풀이  |
 | :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :----: | :---: |
