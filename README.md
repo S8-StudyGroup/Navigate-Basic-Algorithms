@@ -34,7 +34,7 @@
 
 <br/><details>
   <summary>
-    <b>팀 규칙</b>
+    <b>운영 계획</b>
   </summary>
   
   <div markdown="1">
@@ -57,8 +57,10 @@
   </summary>
   
   <div markdown="1">
-    <br/>🧡 시간 약속 잘 지키기!!
-    <br/>💚 팀원 간 <b>쿠션어<b/> 사용하기!!(부드러운 말)
+    <br/>🧡 시간 약속 잘 지키기!!<br/>
+    <br/>💚 팀원 간 <b>쿠션어</b> 사용하기!!(부드러운 말 사용)<br/>
+    <br/>💛 회의 시 발표 끝나면 박수 쳐주기!! 👏👏👏👏
+    <br/>
   </div>
 </details>
 
@@ -73,9 +75,9 @@
       <ul>
         <li>매주 푼 문제를 자신의 폴더 안에 <b><code>문제번호.py</code></b> 로 추가합니다.</li>
         <ul>
-          <li>이 때, <b>코드 맨 위에 주석으로 문제 제목을 작성</b>합니다.
-          <li>예시(1545.py)</li>
-          <img src="https://user-images.githubusercontent.com/89143804/181903159-4fc099ee-88d6-4b1c-a895-514333c3094c.png" alt="example">
+          <br/><li>이 때, <b>코드 맨 위에 주석으로 문제 제목을 작성</b>합니다.</li>
+          <br/><li>예시(1545.py)</li>
+          <br/><img src="https://user-images.githubusercontent.com/89143804/181903159-4fc099ee-88d6-4b1c-a895-514333c3094c.png" alt="example">
         </ul>
       </ul>
       <br/><li><b>폴더 구조</b></li><br/>
@@ -129,6 +131,7 @@
   <div markdown="1">
     <ul>
     <br/><li>매주 해결하는 알고리즘 문제들과 관련된 개념들을 정리하여 <b>노션</b>에 업로드합니다.</li>
+    <br/><li>노션 링크는 8월 1일 과목평가 이후 업로드할 예정입니다.
   </div>
 </details><br/>
 
