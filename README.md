@@ -106,7 +106,7 @@
         <b>타입의 종류</b><br/><br/>
           <ul>
             <li>Feat: 알고리즘 문제 파일 추가 및 수정</li>
-            <li>Docs: 관련 개념 파일 추가 및 수정</li>
+            <li>Docs: README.md 내용 수정</li>
             <li>Refactor: 기능의 변화가 아닌 코드 리팩토링 ex) 변수 이름 변경
           </ul>
         </li><br/>
