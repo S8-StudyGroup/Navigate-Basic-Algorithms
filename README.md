@@ -129,7 +129,7 @@
 <div markdown="1">
     <ul>
     <br/><li>매주 해결하는 알고리즘 문제들과 관련된 개념들을 정리하여 <b>노션</b>에 업로드합니다.</li>
-    <br/><li>노션 링크는 8월 1일 과목평가 이후 업로드할 예정입니다.
+    <br/><li>노션 링크 : <a href="https://tundra-slip-d43.notion.site/NBA-0323d4fc3f244fc1af0fe9d608c7c84a">NBA 관련 개념 정리</a>
   </div>
 </details><br/>
 
@@ -145,7 +145,7 @@
 | 1959  | [두 개의 숫자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  | 양희제     |        | 송대현     |        |
 | 1204  | [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)     | D2  | 박진성     |        | 양희제     |        |
 
-- **관련 개념 정리 :** 
+- **관련 개념 정리 :** [바로 가기](https://tundra-slip-d43.notion.site/1-22-08-01-22-08-07-cf201dfb18b14e3ebc8f2c5723653b39)
   
   ### <br/>📖 **2주차** (22.08.08 ~ 22.08.14)
 
@@ -157,7 +157,7 @@
 | 1288  | [새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3) | D2  |         |        |         |        |
 | 1940  | [가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)    | D2  |         |        |         |        |
 
-- **관련 개념 정리 :** 
+- **관련 개념 정리 :** [바로 가기](https://tundra-slip-d43.notion.site/2-22-08-08-22-08-14-a1d22e48078b4272beae82fe586b1ac1)
 
 ### <br/>📖 **3주차** (22.08.15 ~ 22.08.21)
 
