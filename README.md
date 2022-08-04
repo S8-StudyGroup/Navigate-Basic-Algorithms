@@ -147,7 +147,7 @@
 
 <details>
   <summary>
-    <b>1주차 회의 내용 관련 정리</b>
+    <b>1주차 회의 내용 관련 개념 정리</b>
   </summary>
 
 ## <br/>언패킹 연산자
@@ -247,7 +247,11 @@
 |   1288    | [새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3) |   D2   |             |           |             |           |
 |   1940    |     [가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)      |   D2   |             |           |             |           |
 
-- **관련 개념 정리 :** [바로 가기](https://tundra-slip-d43.notion.site/2-22-08-08-22-08-14-a1d22e48078b4272beae82fe586b1ac1)
+<details>
+  <summary>
+    <b>2주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
 
 ### <br/>📖 **3주차** (22.08.15 ~ 22.08.21)
 
@@ -259,7 +263,11 @@
 |   1946    |  [간단한 압축풀기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)  |   D2   |             |           |             |           |
 |   1948    |    [날짜 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |             |           |             |           |
 
-- **관련 개념 정리 :** 
+<details>
+  <summary>
+    <b>3주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
 
 ### <br/>📖 **4주차** (22.08.22 ~ 22.08.28)
 
@@ -271,7 +279,12 @@
 |   1966    |   [숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |             |           |             |           |
 |   1970    |    [쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)     |   D2   |             |           |             |           |
 
-- **관련 개념 정리 :** 
+<details>
+  <summary>
+    <b>4주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
+
 
 ### <br/>📖 **5주차** (22.08.29 ~ 22.09.04)
 
@@ -283,7 +296,12 @@
 |   1979    | [어디에 단어가 들어갈 수 있을까](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PuPq6AaQDFAUq&categoryId=AV5PuPq6AaQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) |   D2   |             |           |             |           |
 |   1983    |       [조교의 성적 매기기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)       |   D2   |             |           |             |           |
 
-- **관련 개념 정리 :** 
+<details>
+  <summary>
+    <b>5주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
+
 
 ### <br/>📖 **6주차** (22.09.05 ~ 22.09.12)
 
@@ -294,7 +312,12 @@
 |   1989    | [초심자의 회문 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PyTLqAf4DFAUq&categoryId=AV5PyTLqAf4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) |   D2   |             |           |             |           |
 |   2005    |  [파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)   |   D2   |             |           |             |           |
 
-- **관련 개념 정리 :** 
+<details>
+  <summary>
+    <b>6주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
+
 
 ### <br/>📖 **7주차** (22.09.13 ~ 22.09.18)
 
@@ -306,7 +329,12 @@
 |   1926    |    [간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)    |   D2   |             |           |             |           |
 |   1974    |     [스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)      |   D2   |             |           |             |           |
 
-- **관련 개념 정리 :** 
+<details>
+  <summary>
+    <b>7주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
+
 
 ### <br/>📖 **8주차** (22.09.19 ~ 22.09.25)
 
@@ -318,7 +346,12 @@
 |   2001    |    [파리 퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)     |   D2   |             |           |             |           |
 |   1986    |  [지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)   |   D2   |             |           |             |           |
 
-- **관련 개념 정리 :** 
+<details>
+  <summary>
+    <b>8주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
+
 
 ### <br/>📖 **9주차** (22.09.26 ~ 22.10.02)
 
@@ -330,4 +363,9 @@
 |   1954    |       [달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)       |   D2   |             |           |             |           |
 |   1984    |   [중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pw_-KAdcDFAUq&categoryId=AV5Pw_-KAdcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)    |   D2   |             |           |             |           |
 
-- **관련 개념 정리 :** 
+<details>
+  <summary>
+    <b>9주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
+
