@@ -137,13 +137,13 @@
 
 ### <br/>📖 **1주차** (22.08.01 ~ 22.08.07)
 
-| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) |                                                   풀이(2팀)                                                   |
-| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-----------------------------------------------------------------------------------------------------------: |
-|   1545    | [거꾸로 출력해 보아요](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) |   D1   |   김태학    |           |   유덕균    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_1st/1545.py) |
-|   2019    |       [더블더블](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QDEX6AqwDFAUq&categoryId=AV5QDEX6AqwDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)       |   D1   |   이강윤    |           |   조용현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_1st/2019.py) |
-|   1936    |   [1대1 가위바위보](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    |   D1   |   이기용    |           |   김도언    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/week_1st/1936.py)   |
-|   1959    |    [두 개의 숫자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |   양희제    |           |   송대현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_1st/1959.py)  |
-|   1204    |    [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)     |   D2   |   박진성    |           |   양희제    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_1st/1204.py)   |
+| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) |                                                   풀이(1팀)                                                   | 발표자(2팀) |                                                   풀이(2팀)                                                   |
+| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-----------------------------------------------------------------------------------------------------------: | :---------: | :-----------------------------------------------------------------------------------------------------------: |
+|   1545    | [거꾸로 출력해 보아요](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) |   D1   |   김태학    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/week_1st/1545.py)  |   유덕균    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_1st/1545.py) |
+|   2019    |       [더블더블](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QDEX6AqwDFAUq&categoryId=AV5QDEX6AqwDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)       |   D1   |   이강윤    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/week_1st/2019.py)  |   조용현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_1st/2019.py) |
+|   1936    |   [1대1 가위바위보](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    |   D1   |   이기용    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/week_1st/1936.py)  |   김도언    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/week_1st/1936.py)   |
+|   1959    |    [두 개의 숫자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |   양희제    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_1st/1959.py)   |   송대현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_1st/1959.py)  |
+|   1204    |    [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)     |   D2   |   박진성    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/week_1st/1204.py) |   양희제    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_1st/1204.py)   |
 
 <details>
   <summary>
@@ -154,103 +154,142 @@
 
   <br/>`packing`은 여러 개의 객체를 하나로 합쳐줄 때 사용하는 반면, 이와 반대되는 개념인 `unpacking`은 여러 개의 객체를 포함하고 있는 하나의 객체를 풀어줍니다.
 
-  <br/>
+<br/>
 
-  ```python
-  # 예시
+```python
+# 예시
 
-  numbers = [1, 2, 3]
-  print(*numbers) # 1 2 3
+numbers = [1, 2, 3]
+print(*numbers) # 1 2 3
 
-  # 언패킹 되는 과정
-  # 1. print(*numbers)
-  # 2. print(*[1, 2, 3])
-  # 3. print(1, 2, 3)
-  # 4. 1 2 3이 출력됨
-  ```
+# 언패킹 되는 과정
+# 1. print(*numbers)
+# 2. print(*[1, 2, 3])
+# 3. print(1, 2, 3)
+# 4. 1 2 3이 출력됨
+```
 
-  ## <br>range(stop), range(start, stop[, step])
-  
+## <br>range(stop), range(start, stop[, step])
+
   <br/> range 함수는, 연속적인 숫자 객체를 만들어서 반환해주는 함수입니다. 불변형이고, 순서가 있는 시퀀스형입니다. 반복문 for와 함께 사용이 되기 때문에 알아둬야 할 필수 요소라고 생각하시면 되겠습니다.
 
-  <br/>
+<br/>
 
-  ```python
-  # 예시
+```python
+# 예시
 
-    for a in range(4):
-      print(a, end=' ') # 0 1 2 3 (4는 출력되지 않습니다.)
+  for a in range(4):
+    print(a, end=' ') # 0 1 2 3 (4는 출력되지 않습니다.)
 
-    for b in range(1, 5):
-      print(b, end=' ') # 1 2 3 4 (5는 출력되지 않습니다.)
+  for b in range(1, 5):
+    print(b, end=' ') # 1 2 3 4 (5는 출력되지 않습니다.)
 
-    for c in range(1, 6, 2):
-      print(c, end=' ') # 1 3 5
+  for c in range(1, 6, 2):
+    print(c, end=' ') # 1 3 5
 
-    for d in range(5, 2, -1):
-      print(d, end=' ') # 5 4 3 (2는 출력되지 않습니다.)
-  ```
+  for d in range(5, 2, -1):
+    print(d, end=' ') # 5 4 3 (2는 출력되지 않습니다.)
+```
 
-  ## <br/> Pythonic swap
+## <br/> Pythonic swap
 
   <br/>프로그래밍 언어, 특히 c언어로 swap을 시도하면 이렇습니다.
 
-  <br/>
-  
-  ```python
-  a = 30
-  b = 50
+<br/>
 
-  temp = a
-  a = b
-  b = temp
+```python
+a = 30
+b = 50
 
-  print(a, b) # 50 30
-  ```
+temp = a
+a = b
+b = temp
+
+print(a, b) # 50 30
+```
 
   <br/>하지만 파이썬에게는 파이써닉(pythonic)한 코드가 있습니다.
 
-  <br>
+<br>
 
-  ```python
-  a = 30
-  b = 50
+```python
+a = 30
+b = 50
 
-  a, b = b, a
-  print(a, b) # 50 30
-  ```
+a, b = b, a
+print(a, b) # 50 30
+```
 
   <br/>물론 파이써닉한 코드도 좋은 코드이지만 회의에서도 말씀드렸다시피 가독성이 좋은 코드가 더 좋은 코드라고 할 수 있겠습니다!! 🙂
 
-  ## <br/> f-string
+## <br/> f-string
 
   <br/>파이썬에서 문자열을 표현하는 방법은 여러 가지가 있지만, 그 중 가장 최근에 나왔으면서 깔끔한 표현방법이 f-string입니다. 다들 잘 사용하고 계셔서 다행입니다!
 
-  <br/>
+<br/>
 
-  ```python
-  team_name = "NBA"
-  count_members = 9
+```python
+team_name = "NBA"
+count_members = 9
 
-  print(f'저희 그룹스터디 이름은 {team_name}이며, 팀원은 총 {count_members}명입니다.')
-  # 저희 그룹스터디 이름은 NBA이며, 팀원은 총 9명입니다.
-  ```
+print(f'저희 그룹스터디 이름은 {team_name}이며, 팀원은 총 {count_members}명입니다.')
+# 저희 그룹스터디 이름은 NBA이며, 팀원은 총 9명입니다.
+```
+
 </details>
-  
-  ### <br/>📖 **2주차** (22.08.08 ~ 22.08.14)
+
+### <br/>📖 **2주차** (22.08.08 ~ 22.08.14)
 
 | 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
 | :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   1933    |   [간단한 N 의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)   |   D1   |             |           |             |           |
-|   1938    |  [아주 간단한 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  |   D1   |             |           |             |           |
-|   1284    |    [수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)    |   D2   |             |           |             |           |
-|   1288    | [새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3) |   D2   |             |           |             |           |
-|   1940    |     [가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)      |   D2   |             |           |             |           |
+|   1933    |   [간단한 N 의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)   |   D1   |   양희제    |           |   양희제    |           |
+|   1938    |  [아주 간단한 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  |   D1   |   이강윤    |           |   송대현    |           |
+|   1284    |    [수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)    |   D2   |   김태학    |           |   유덕균    |           |
+|   1288    | [새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3) |   D2   |   이기용    |           |   조용현    |           |
+|   1940    |     [가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)      |   D2   |   박진성    |           |   김도언    |           |
 
 <details>
   <summary>
     <b>2주차 회의 내용 관련 개념 정리</b>
   </summary>
+
+  ## <br>List Comprehension
+
+  <br>표현식과 제어문을 통해 특정한 값을 가진 리스트를 간결하게 생성하는 방법
+
+  <br>
+
+  - List Comprehension의 과정
+
+
+  ```python
+  a = []
+  # List Comprehension의 과정을 제어문으로 만들어 보면..
+  for i in range(5):
+      if i % 2 == 1:
+          a.append(i)
+
+  # 마법의 복사 붙여넣기
+  # for문 그대로 들고가서 가운데, if문을 그 오른쪽에, 출력할 값을 왼쪽에!
+  a = [i for i in range(5) if i % 2 == 1]
+  ```
+
+  <br>
+
+  - 알고리즘 문제 풀 때 많이 활용됨!!
+
+  ```python
+  [code for 변수 in iterable]
+
+  [code for 변수 in iterable if 조건식]
+  # [1, 2, 3, 4, ...] 에서 [2, 4, 6, 8...] 뽑아낼 떄 등 많이 사용됨!
+  ```
+
+  <hr>
+
+  출처 : [GangYunGit_TIL](https://github.com/GangYunGit/TIL/blob/master/python/2022_07_20_TIL.md)
+
+
 </details>
 
 ### <br/>📖 **3주차** (22.08.15 ~ 22.08.21)
@@ -285,7 +324,6 @@
   </summary>
 </details>
 
-
 ### <br/>📖 **5주차** (22.08.29 ~ 22.09.04)
 
 | 문제 번호 |                                                                                                                                           문제 이름                                                                                                                                            | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
@@ -302,7 +340,6 @@
   </summary>
 </details>
 
-
 ### <br/>📖 **6주차** (22.09.05 ~ 22.09.12)
 
 | 문제 번호 |                                                                                                                                     문제 이름                                                                                                                                      | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
@@ -317,7 +354,6 @@
     <b>6주차 회의 내용 관련 개념 정리</b>
   </summary>
 </details>
-
 
 ### <br/>📖 **7주차** (22.09.13 ~ 22.09.18)
 
@@ -335,7 +371,6 @@
   </summary>
 </details>
 
-
 ### <br/>📖 **8주차** (22.09.19 ~ 22.09.25)
 
 | 문제 번호 |                                                                                                                                    문제 이름                                                                                                                                     | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
@@ -352,7 +387,6 @@
   </summary>
 </details>
 
-
 ### <br/>📖 **9주차** (22.09.26 ~ 22.10.02)
 
 | 문제 번호 |                                                                                                                                        문제 이름                                                                                                                                        | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
@@ -368,4 +402,3 @@
     <b>9주차 회의 내용 관련 개념 정리</b>
   </summary>
 </details>
-
