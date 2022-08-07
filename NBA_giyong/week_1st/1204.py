@@ -18,3 +18,5 @@ for tc in range(T):
             result.append(i)
 
     print('#d% %d' % (tc,max(result)))
+
+     
