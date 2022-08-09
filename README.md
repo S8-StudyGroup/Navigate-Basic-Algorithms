@@ -246,55 +246,136 @@ print(f'저희 그룹스터디 이름은 {team_name}이며, 팀원은 총 {count
 
 ### <br/>📖 **2주차** (22.08.08 ~ 22.08.14)
 
-| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   1933    |   [간단한 N 의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)   |   D1   |   양희제    |           |   양희제    |           |
-|   1938    |  [아주 간단한 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  |   D1   |   이강윤    |           |   송대현    |           |
-|   1284    |    [수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)    |   D2   |   김태학    |           |   유덕균    |           |
-|   1288    | [새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3) |   D2   |   이기용    |           |   조용현    |           |
-|   1940    |     [가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)      |   D2   |   박진성    |           |   김도언    |           |
+| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) |                                                   풀이(2팀)                                                   |
+| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-----------------------------------------------------------------------------------------------------------: |
+|   1933    |   [간단한 N 의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)   |   D1   |   양희제    |           |   양희제    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_2nd/1933.py)   |
+|   1938    |  [아주 간단한 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  |   D1   |   이강윤    |           |   송대현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_2nd/1938.py)  |
+|   1284    |    [수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)    |   D2   |   김태학    |           |   유덕균    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_2nd/1284.py) |
+|   1288    | [새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3) |   D2   |   이기용    |           |   조용현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_2nd/1288.py) |
+|   1940    |     [가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)      |   D2   |   박진성    |           |   김도언    |                                                 [바로 가기]()                                                 |
 
 <details>
   <summary>
     <b>2주차 회의 내용 관련 개념 정리</b>
   </summary>
 
-  ## <br>List Comprehension
+## <br>List Comprehension
 
   <br>표현식과 제어문을 통해 특정한 값을 가진 리스트를 간결하게 생성하는 방법
 
-  <br>
+<br>
 
-  - List Comprehension의 과정
+- List Comprehension의 과정
 
+```python
+a = []
+# List Comprehension의 과정을 제어문으로 만들어 보면..
+for i in range(5):
+    if i % 2 == 1:
+        a.append(i)
 
-  ```python
-  a = []
-  # List Comprehension의 과정을 제어문으로 만들어 보면..
-  for i in range(5):
-      if i % 2 == 1:
-          a.append(i)
+# 마법의 복사 붙여넣기
+# for문 그대로 들고가서 가운데, if문을 그 오른쪽에, 출력할 값을 왼쪽에!
+a = [i for i in range(5) if i % 2 == 1]
+```
 
-  # 마법의 복사 붙여넣기
-  # for문 그대로 들고가서 가운데, if문을 그 오른쪽에, 출력할 값을 왼쪽에!
-  a = [i for i in range(5) if i % 2 == 1]
-  ```
+<br>
 
-  <br>
-
-  - 알고리즘 문제 풀 때 많이 활용됨!!
-
+- 알고리즘 문제 풀 때 많이 활용됨!!
+  
   ```python
   [code for 변수 in iterable]
-
+  
   [code for 변수 in iterable if 조건식]
   # [1, 2, 3, 4, ...] 에서 [2, 4, 6, 8...] 뽑아낼 떄 등 많이 사용됨!
   ```
+  
+## <br>Set
 
-  <hr>
+<br>Set이란, 중복되는 요소가 없이, 순서에 상관없는 데이터들의 묶음입니다. 담고 있는 요소를 삽입 변경, 삭제 가능한 가변 자료형입니다. 셋을 활용하면 다른 컨테이너에서 중복된 값을 쉽게 제거할 수 있습니다. 하지만 순서가 무시되기 때문에 순서가 중요한 경우 사용할 수 없습니다.
 
-  출처 : [GangYunGit_TIL](https://github.com/GangYunGit/TIL/blob/master/python/2022_07_20_TIL.md)
+<br>
 
+```python
+# Set은 중복 값 제거
+print({1, 2, 3, 1, 2}) # {1, 2, 3}
+print(type({1, 2, 3})) # <class 'set'>
+
+# 빈 중괄호는 Dictionary
+blank = {}
+print(type(blank)) # <class 'dict'>
+blank_set = set()
+print(type(blank_set)) # <class 'set'>
+
+# Set은 순서가 없어 인덱스 접근 등 특정 값에 접근할 수 없음
+print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
+
+```
+
+<br>
+
+- 다양한 셋 메서드
+  
+  - s.copy() : 셋의 얕은 복사본을 반환
+  
+  - s.add(x) : 항목 x가 셋 s에 없다면 추가
+   
+  - s.pop() : 셋 s에서 랜덤하게 항목을 반환하고, 해당 항목을 제거. set이 비어있을 경우 KeyError
+   
+  - s.remove(x) : 항목 x를 셋 s에서 삭제. 항목이 존재하지 않을 경우 KeyError
+   
+  - s.discard(x) : 항목 x가 셋 s에 있는 경우, 항목 삭제
+   
+  - s.update(t) : 셋 t에 있는 모든 항목 중 셋 s에 없는 항목을 추가
+   
+  - s.clear() : 모든 항목을 제거
+   
+  - s.isdisjoint(t) : 셋 s가 셋 t와 서로 같은 항목을 하나라도 갖고 있지 않은 경우, True 반환(서로소)
+   
+  - s.issubset(t) : 셋 s가 셋 t의 하위 셋인 경우, True 반환
+   
+  - s.issuperset(t) : 셋 s가 셋 t의 상위 셋인 경우, True 반환
+
+  ## <br> 약수 구하기 효율화
+
+  <br>
+
+  자연수 n의 약수를 구할 때 좀 더 효율적인 방법이 있습니다. 바로 n의 제곱근이하의 자연수들만 반복문으로 돌리는 것입니다.  
+  
+  <br>왜냐하면, '임의의 자연수 N의 약수들 중에서 두 약수의 곱이 N이 되는 약수 A와 약수 B는 반드시 존재한다'는 규칙이 존재하기 때문에, 자연수 N의 제곱근까지의 약수를 구하면 그 짝이 되는 약수는 자동으로 구해지기 때문입니다.
+
+  <br>
+
+  ```python
+  # 단순 풀이 (시간복잡도 O(N))
+  def get_divisor(n):
+    n = int(n)
+    divisors = []
+
+    for i in range(1, n + 1):
+        if (n % i == 0):            
+            divisors.append(i)            
+
+    return divisors
+
+    # 효율화 풀이 (시간복잡도 O(N^(1/2)))
+    def get_divisor(n):
+    n = int(n)
+    divisors = []
+    divisors_back = [] 
+
+    for i in range(1, int(n**(1/2)) + 1): 
+        if (n % i == 0):            
+            divisors.append(i)
+            if (i != (n // i)): 
+                divisors_back.append(n//i)
+
+    return divisors + divisors_back[::-1]
+  ```
+
+ <hr>
+  
+  출처 : [GangYunGit_TIL](https://github.com/GangYunGit/TIL/blob/master/python/2022_07_20_TIL.md), [이누의 개발성장기](https://inuplace.tistory.com/459)
 
 </details>
 
