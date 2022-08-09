@@ -2,6 +2,10 @@
 
 기본적인 알고리즘 문제들을 함께 해결해보는 공간, NBA입니다.
 
+<div style="display:flex; justify-content:center; align-items:center;">
+<img src="https://user-images.githubusercontent.com/89143804/183591575-e399a28b-d5be-4aac-b4c6-9e93ec963142.png">
+</div>
+
 ## <br/>**👨‍💻 Members**
 
 ### <br/>🐔 **Leader**
