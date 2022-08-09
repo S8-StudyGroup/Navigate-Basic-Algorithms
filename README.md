@@ -2,13 +2,19 @@
 
 기본적인 알고리즘 문제들을 함께 해결해보는 공간, NBA입니다.
 
+<br>
+
+<div style="display:flex; justify-content:center; align-items:center;">
+<img src="https://user-images.githubusercontent.com/89143804/183591575-e399a28b-d5be-4aac-b4c6-9e93ec963142.png">
+</div>
+
 ## <br/>**👨‍💻 Members**
 
 ### <br/>🐔 **Leader**
 
 - 양희제
 
-### <br/>**🐣 Team 1**
+### <br>**🐣 Team 1**
 
 - 김태학
 
@@ -18,7 +24,7 @@
 
 - 이기용
 
-### <br/>**🐣 Team 2**
+### <br>**🐣 Team 2**
 
 - 김도언
 
@@ -28,7 +34,7 @@
 
 - 조용현
 
-## <br/>**✅ Team Rules**<br/>
+## <br>**✅ Team Rules**<br/>
 
 <br/><details>
   <summary>
@@ -37,61 +43,61 @@
 
 <div markdown="1">
     <ul>
-      <br/><li>SWEA에 존재하는 D1, D2 문제(총 44문제)를 일주일에 5문제씩 9주(2개월)에 걸쳐 해결합니다.</li>
-      <br/><li>5문제 중 각각 1문제씩 골라 회의 날짜에 발표합니다. 이 때, 관련 개념에 대해 함께 설명하여야 하며, 모든 팀원이 이해할 수 있도록 충분히 노력하여야 합니다.</li>
-      <br/><li>해결한 문제들은 양식에 맞게 파일 내에 작성한 뒤 Github에 Push합니다.</li>
-      <br/><li>관련 개념들은 정리하여 노션 페이지에 업로드합니다.</li>
-      <br/><li>월말에 각자의 개념정리 페이지 및 그동안의 회의를 토대로 팀원끼리 익명투표하여 <b>참여우수 교육생</b>을 선발합니다.</li>
-    <br/><li><b>매월 참여우수 교육생은 월말 결과보고서에 우수 교육생 관련하여 이름이 기재될 예정입니다.</b></li>
+      <br><li>SWEA에 존재하는 D1, D2 문제(총 44문제)를 일주일에 5문제씩 9주(2개월)에 걸쳐 해결합니다.</li>
+      <br><li>5문제 중 각각 1문제씩 골라 회의 날짜에 발표합니다. 이 때, 관련 개념에 대해 함께 설명하여야 하며, 모든 팀원이 이해할 수 있도록 충분히 노력하여야 합니다.</li>
+      <br><li>해결한 문제들은 양식에 맞게 파일 내에 작성한 뒤 Github에 Push합니다.</li>
+      <br><li>관련 개념들은 정리하여 노션 페이지에 업로드합니다.</li>
+      <br><li>월말에 각자의 개념정리 페이지 및 그동안의 회의를 토대로 팀원끼리 익명투표하여 <b>참여우수 교육생</b>을 선발합니다.</li>
+    <br><li><b>매월 참여우수 교육생은 월말 결과보고서에 우수 교육생 관련하여 이름이 기재될 예정입니다.</b></li>
     </ul>
     </li>
     </ul>
   </div>
 </details>
 
-<br/><details>
+<br><details>
   <summary>
     <b>팀원 규칙</b>
   </summary>
 
 <div markdown="1">
-    <br/>🧡 시간 약속 잘 지키기!!<br/>
-    <br/>💚 팀원 간 <b>쿠션어</b> 사용하기!!(부드러운 말 사용)<br/>
-    <br/>💛 회의 시 발표 끝나면 박수 쳐주기!! 👏👏👏👏
-    <br/>
+    <br>🧡 시간 약속 잘 지키기!!<br/>
+    <br>💚 팀원 간 <b>쿠션어</b> 사용하기!!(부드러운 말 사용)<br/>
+    <br>💛 회의 시 발표 끝나면 박수 쳐주기!! 👏👏👏👏
+    <br>
   </div>
 </details>
 
-<br/><details>
+<br><details>
   <summary>
     <b>파일 네이밍 규칙 및 폴더 구조</b>
   </summary>
 
 <div markdown="1">
     <ul>
-      <br/><li><b>파일 네이밍 규칙</b><br/><br/>
+      <br><li><b>파일 네이밍 규칙</b><br/><br/>
       <ul>
         <li>매주 푼 문제를 자신의 폴더 안에 <b><code>문제번호.py</code></b> 로 추가합니다.</li>
         <ul>
-          <br/><li>이 때, <b>코드 맨 위에 주석으로 문제 제목을 작성</b>합니다.</li>
-          <br/><li>예시(1545.py)</li>
-          <br/><img src="https://user-images.githubusercontent.com/89143804/181903159-4fc099ee-88d6-4b1c-a895-514333c3094c.png" alt="example">
+          <br><li>이 때, <b>코드 맨 위에 주석으로 문제 제목을 작성</b>합니다.</li>
+          <br><li>예시(1545.py)</li>
+          <br><img src="https://user-images.githubusercontent.com/89143804/181903159-4fc099ee-88d6-4b1c-a895-514333c3094c.png" alt="example">
         </ul>
       </ul>
-      <br/><li><b>폴더 구조</b></li><br/>
+      <br><li><b>폴더 구조</b></li><br/>
       <img src="https://user-images.githubusercontent.com/89143804/181919511-b2c84e43-086d-4f66-8074-68c2470053f9.png" alt="structure_of_folder">
     </ul>
   </div>
 </details>
 
-<br/><details>
+<br><details>
   <summary>
     <b>커밋 메세지 규칙</b>
   </summary>
 
 <div markdown="1">
     <ul>
-      <br/><li><b>NBA Commit message 구조</b></li><br/>
+      <br><li><b>NBA Commit message 구조</b></li><br/>
       <ol>
         <li>원래 기본적으로 Commit message는 제목, 본문, 꼬리말로 구성되지만, 기초 알고리즘을 푸는 교육생임을 감안하여 <b>제목</b>만을 작성합니다.</li><br/>
         <li>위에서 언급한 <b>제목</b>은 커밋 명령어인 <b><code>git commit -m "커밋 메세지"</code></b>에서 <b><code>"커밋 메세지"</code></b>를 뜻하며, 편의상 <b>커밋 메세지</b>라고 부르겠습니다.</li><br/>
@@ -107,10 +113,10 @@
             <li>Docs: README.md 내용 수정</li>
             <li>Refactor: 기능의 변화가 아닌 코드 리팩토링 ex) 변수 이름 변경
           </ul>
-        </li><br/>
+        </li><br>
         <li><b style="background-color : #E26B1B; color: white;">커밋 예시</b></li><br/>
         <img src="https://user-images.githubusercontent.com/89143804/181919597-869a28d5-8e0f-4837-b4f8-243a1e87da19.png" alt="commit_example">
-      </ul><br/>
+      </ul><br>
       <li><b>NBA Commit message 규칙</b></li><br/>
       <ol>
         <li>커밋 메세지는 50자 이내로 작성합니다.</li>
@@ -128,10 +134,10 @@
 
 <div markdown="1">
     <ul>
-    <br/><li>매주 해결하는 알고리즘 문제들과 관련된 개념들을 정리하여 업로드합니다.</li>
-    <br/><li>관련 개념 정리 문서는 아래 위치한 세부 계획에 주 단위로 기록합니다.</li>
+    <br><li>매주 해결하는 알고리즘 문제들과 관련된 개념들을 정리하여 업로드합니다.</li>
+    <br><li>관련 개념 정리 문서는 아래 위치한 세부 계획에 주 단위로 기록합니다.</li>
   </div>
-</details><br/>
+</details><br>
 
 ## <br/>📒 **세부 계획**
 
