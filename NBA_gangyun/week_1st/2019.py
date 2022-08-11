@@ -1,6 +1,5 @@
 # 더블더블
 
-# ---첫번째 제출---
 # num = int(input())
 # num_double = 1
 
@@ -12,8 +11,5 @@
 #     print(num_double, end=' ')
 
 a = int(input())
-b = 0.5
-
-for i in range(a + 1):
-    b *= 2  # if문을 없애기 위해 b를 '0.5*2 = 1'에서 시작
-    print(int(b), end=' ')  # 명시적 형변환 이용, float형 출력을 방지
+list_b = [int(2**i) for i in range(a + 1)]  # list comprehension 이용
+print(*list_b)  # Asterisk(*)를 이용하여 리스트를 unpakcing
