@@ -8,10 +8,14 @@ for test_case in range(1, T + 1):
     max_count = 0
     max_i = 0
     
-    for i in range(len(grades)):
-        counts = grades.count(grades[i])
-        if counts > max_count:
+    ## 이 부분이 있어야 같은 횟수로 나와도 그 중 큰 값을 선택할 수 있음
+    grades_list = sorted(grades)
+
+    for i in range(len(grades_list)):
+        counts = grades_list.count(grades_list[i])
+
+        if counts >= max_count:
             max_count = counts
             max_i = i
             
-    print(f'#{t} {grades[max_i]}')
+    print(f'#{t} {grades_list[max_i]}')
