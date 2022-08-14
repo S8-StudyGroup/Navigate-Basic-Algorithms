@@ -143,13 +143,13 @@
 
 ### <br/>📖 **1주차** (22.08.01 ~ 22.08.07)
 
-| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) |                                                   풀이(1팀)                                                   | 발표자(2팀) |                                                   풀이(2팀)                                                   |
-| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-----------------------------------------------------------------------------------------------------------: | :---------: | :-----------------------------------------------------------------------------------------------------------: |
-|   1545    | [거꾸로 출력해 보아요](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) |   D1   |   김태학    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/week_1st/1545.py)  |   유덕균    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_1st/1545.py) |
-|   2019    |       [더블더블](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QDEX6AqwDFAUq&categoryId=AV5QDEX6AqwDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)       |   D1   |   이강윤    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/week_1st/2019.py)  |   조용현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_1st/2019.py) |
-|   1936    |   [1대1 가위바위보](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    |   D1   |   이기용    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/week_1st/1936.py)  |   김도언    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/week_1st/1936.py)   |
-|   1959    |    [두 개의 숫자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |   양희제    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_1st/1959.py)   |   송대현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_1st/1959.py)  |
-|   1204    |    [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)     |   D2   |   박진성    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/week_1st/1204.py) |   양희제    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_1st/1204.py)   |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀)                                                                                                    | 발표자(2팀) | 풀이(2팀)                                                                                                    |
+|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:---------------------------------------------------------------------------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------------------:|
+| 1545  | [거꾸로 출력해 보아요](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) | D1  | 김태학     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/week_1st/1545.py)   | 유덕균     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_1st/1545.py) |
+| 2019  | [더블더블](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QDEX6AqwDFAUq&categoryId=AV5QDEX6AqwDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)        | D1  | 이강윤     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/week_1st/2019.py)  | 조용현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_1st/2019.py) |
+| 1936  | [1대1 가위바위보](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)   | D1  | 이기용     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/week_1st/1936.py)   | 김도언     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/week_1st/1936.py)    |
+| 1959  | [두 개의 숫자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  | 양희제     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_1st/1959.py)    | 송대현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_1st/1959.py)  |
+| 1204  | [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)     | D2  | 박진성     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/week_1st/1204.py) | 양희제     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_1st/1204.py)    |
 
 <details>
   <summary>
@@ -246,13 +246,13 @@ print(f'저희 그룹스터디 이름은 {team_name}이며, 팀원은 총 {count
 
 ### <br/>📖 **2주차** (22.08.08 ~ 22.08.14)
 
-| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) |                                                   풀이(2팀)                                                   |
-| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-----------------------------------------------------------------------------------------------------------: |
-|   1933    |   [간단한 N 의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)   |   D1   |   양희제    |           |   양희제    |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_2nd/1933.py)   |
-|   1938    |  [아주 간단한 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  |   D1   |   이강윤    |           |   송대현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_2nd/1938.py)  |
-|   1284    |    [수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)    |   D2   |   김태학    |           |   유덕균    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_2nd/1284.py) |
-|   1288    | [새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3) |   D2   |   이기용    |           |   조용현    | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_2nd/1288.py) |
-|   1940    |     [가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)      |   D2   |   박진성    |           |   김도언    |                                                 [바로 가기]()                                                 |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀)                                                                                                    |
+|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:---------------------------------------------------------------------------------------------------------:|
+| 1933  | [간단한 N 의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  | D1  | 양희제     |        | 양희제     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_2nd/1933.py)    |
+| 1938  | [아주 간단한 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  | D1  | 이강윤     |        | 송대현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_2nd/1938.py)  |
+| 1284  | [수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)    | D2  | 김태학     |        | 유덕균     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_2nd/1284.py) |
+| 1288  | [새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3) | D2  | 이기용     |        | 조용현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_2nd/1288.py) |
+| 1940  | [가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)    | D2  | 박진성     |        | 김도언     | [바로 가기]()                                                                                                 |
 
 <details>
   <summary>
@@ -289,7 +289,7 @@ a = [i for i in range(5) if i % 2 == 1]
   [code for 변수 in iterable if 조건식]
   # [1, 2, 3, 4, ...] 에서 [2, 4, 6, 8...] 뽑아낼 떄 등 많이 사용됨!
   ```
-  
+
 ## <br>Set
 
 <br>Set이란, 중복되는 요소가 없이, 순서에 상관없는 데이터들의 묶음입니다. 담고 있는 요소를 삽입 변경, 삭제 가능한 가변 자료형입니다. 셋을 활용하면 다른 컨테이너에서 중복된 값을 쉽게 제거할 수 있습니다. 하지만 순서가 무시되기 때문에 순서가 중요한 경우 사용할 수 없습니다.
@@ -309,7 +309,6 @@ print(type(blank_set)) # <class 'set'>
 
 # Set은 순서가 없어 인덱스 접근 등 특정 값에 접근할 수 없음
 print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
-
 ```
 
 <br>
@@ -319,61 +318,61 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
   - s.copy() : 셋의 얕은 복사본을 반환
   
   - s.add(x) : 항목 x가 셋 s에 없다면 추가
-   
+  
   - s.pop() : 셋 s에서 랜덤하게 항목을 반환하고, 해당 항목을 제거. set이 비어있을 경우 KeyError
-   
+  
   - s.remove(x) : 항목 x를 셋 s에서 삭제. 항목이 존재하지 않을 경우 KeyError
-   
+  
   - s.discard(x) : 항목 x가 셋 s에 있는 경우, 항목 삭제
-   
+  
   - s.update(t) : 셋 t에 있는 모든 항목 중 셋 s에 없는 항목을 추가
-   
+  
   - s.clear() : 모든 항목을 제거
-   
+  
   - s.isdisjoint(t) : 셋 s가 셋 t와 서로 같은 항목을 하나라도 갖고 있지 않은 경우, True 반환(서로소)
-   
+  
   - s.issubset(t) : 셋 s가 셋 t의 하위 셋인 경우, True 반환
-   
+  
   - s.issuperset(t) : 셋 s가 셋 t의 상위 셋인 경우, True 반환
-
+  
   ## <br> 약수 구하기 효율화
-
+  
   <br>
-
+  
   자연수 n의 약수를 구할 때 좀 더 효율적인 방법이 있습니다. 바로 n의 제곱근이하의 자연수들만 반복문으로 돌리는 것입니다.  
   
   <br>왜냐하면, '임의의 자연수 N의 약수들 중에서 두 약수의 곱이 N이 되는 약수 A와 약수 B는 반드시 존재한다'는 규칙이 존재하기 때문에, 자연수 N의 제곱근까지의 약수를 구하면 그 짝이 되는 약수는 자동으로 구해지기 때문입니다.
-
+  
   <br>
-
+  
   ```python
   # 단순 풀이 (시간복잡도 O(N))
   def get_divisor(n):
     n = int(n)
     divisors = []
-
+  
     for i in range(1, n + 1):
         if (n % i == 0):            
             divisors.append(i)            
-
+  
     return divisors
-
+  
     # 효율화 풀이 (시간복잡도 O(N^(1/2)))
     def get_divisor(n):
     n = int(n)
     divisors = []
     divisors_back = [] 
-
+  
     for i in range(1, int(n**(1/2)) + 1): 
         if (n % i == 0):            
             divisors.append(i)
             if (i != (n // i)): 
                 divisors_back.append(n//i)
-
+  
     return divisors + divisors_back[::-1]
   ```
-
- <hr>
+  
+  <hr>
   
   출처 : [GangYunGit_TIL](https://github.com/GangYunGit/TIL/blob/master/python/2022_07_20_TIL.md), [이누의 개발성장기](https://inuplace.tistory.com/459)
 
@@ -381,13 +380,13 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 
 ### <br/>📖 **3주차** (22.08.15 ~ 22.08.21)
 
-| 문제 번호 |                                                                                                                                     문제 이름                                                                                                                                     | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   2025    |      [N줄덧셈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFZtaAscDFAUq&categoryId=AV5QFZtaAscDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)      |   D1   |             |           |             |           |
-|   2027    |  [대각선 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFuZ6As0DFAUq&categoryId=AV5QFuZ6As0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  |   D1   |             |           |             |           |
-|   1945    | [간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2) |   D2   |             |           |             |           |
-|   1946    |  [간단한 압축풀기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)  |   D2   |             |           |             |           |
-|   1948    |    [날짜 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |             |           |             |           |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                     | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
+|:-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:------:|
+| 2025  | [N줄덧셈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFZtaAscDFAUq&categoryId=AV5QFZtaAscDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)      | D1  |         |        | 양희제     |        |
+| 2027  | [대각선 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFuZ6As0DFAUq&categoryId=AV5QFuZ6As0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  | D1  |         |        | 김도언     |        |
+| 1945  | [간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2) | D2  |         |        | 유덕균     |        |
+| 1946  | [간단한 압축풀기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)  | D2  |         |        | 조용현     |        |
+| 1948  | [날짜 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  |         |        | 송대현     |        |
 
 <details>
   <summary>
@@ -397,13 +396,13 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 
 ### <br/>📖 **4주차** (22.08.22 ~ 22.08.28)
 
-| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   2029    | [몫과 나머지 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) |   D1   |             |           |             |           |
-|   2043    |   [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    |   D1   |             |           |             |           |
-|   1961    |    [숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |             |           |             |           |
-|   1966    |   [숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |             |           |             |           |
-|   1970    |    [쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)     |   D2   |             |           |             |           |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
+|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:------:|
+| 2029  | [몫과 나머지 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) | D1  |         |        |         |        |
+| 2043  | [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    | D1  |         |        |         |        |
+| 1961  | [숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  |         |        |         |        |
+| 1966  | [숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  |         |        |         |        |
+| 1970  | [쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)     | D2  |         |        |         |        |
 
 <details>
   <summary>
@@ -413,13 +412,13 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 
 ### <br/>📖 **5주차** (22.08.29 ~ 22.09.04)
 
-| 문제 번호 |                                                                                                                                           문제 이름                                                                                                                                            | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   2046    |          [스탬프 찍기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QKdT6AyYDFAUq&categoryId=AV5QKdT6AyYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)           |   D1   |             |           |             |           |
-|   2047    |         [신문 헤드라인](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QKsLaAy0DFAUq&categoryId=AV5QKsLaAy0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)          |   D1   |             |           |             |           |
-|   1976    |           [시각 덧셈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PttaaAZIDFAUq&categoryId=AV5PttaaAZIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)            |   D2   |             |           |             |           |
-|   1979    | [어디에 단어가 들어갈 수 있을까](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PuPq6AaQDFAUq&categoryId=AV5PuPq6AaQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) |   D2   |             |           |             |           |
-|   1983    |       [조교의 성적 매기기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)       |   D2   |             |           |             |           |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                             | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
+|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:------:|
+| 2046  | [스탬프 찍기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QKdT6AyYDFAUq&categoryId=AV5QKdT6AyYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)            | D1  |         |        |         |        |
+| 2047  | [신문 헤드라인](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QKsLaAy0DFAUq&categoryId=AV5QKsLaAy0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)           | D1  |         |        |         |        |
+| 1976  | [시각 덧셈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PttaaAZIDFAUq&categoryId=AV5PttaaAZIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)             | D2  |         |        |         |        |
+| 1979  | [어디에 단어가 들어갈 수 있을까](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PuPq6AaQDFAUq&categoryId=AV5PuPq6AaQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) | D2  |         |        |         |        |
+| 1983  | [조교의 성적 매기기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)        | D2  |         |        |         |        |
 
 <details>
   <summary>
@@ -429,12 +428,12 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 
 ### <br/>📖 **6주차** (22.09.05 ~ 22.09.12)
 
-| 문제 번호 |                                                                                                                                     문제 이름                                                                                                                                      | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   2071    |   [평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)    |   D1   |             |           |             |           |
-|   2072    |   [홀수만 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)    |   D1   |             |           |             |           |
-|   1989    | [초심자의 회문 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PyTLqAf4DFAUq&categoryId=AV5PyTLqAf4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) |   D2   |             |           |             |           |
-|   2005    |  [파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)   |   D2   |             |           |             |           |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                      | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
+|:-----:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:------:|
+| 2071  | [평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)    | D1  |         |        |         |        |
+| 2072  | [홀수만 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)    | D1  |         |        |         |        |
+| 1989  | [초심자의 회문 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PyTLqAf4DFAUq&categoryId=AV5PyTLqAf4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) | D2  |         |        |         |        |
+| 2005  | [파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)   | D2  |         |        |         |        |
 
 <details>
   <summary>
@@ -444,13 +443,13 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 
 ### <br/>📖 **7주차** (22.09.13 ~ 22.09.18)
 
-| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   2050    | [알파벳을 숫자로 변환](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QLGxKAzQDFAUq&categoryId=AV5QLGxKAzQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1) |   D1   |             |           |             |           |
-|   2056    |     [연월일 달력](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QLkdKAz4DFAUq&categoryId=AV5QLkdKAz4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)      |   D1   |             |           |             |           |
-|   1859    |  [백만 장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)  |   D2   |             |           |             |           |
-|   1926    |    [간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)    |   D2   |             |           |             |           |
-|   1974    |     [스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)      |   D2   |             |           |             |           |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
+|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:------:|
+| 2050  | [알파벳을 숫자로 변환](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QLGxKAzQDFAUq&categoryId=AV5QLGxKAzQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1) | D1  |         |        |         |        |
+| 2056  | [연월일 달력](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QLkdKAz4DFAUq&categoryId=AV5QLkdKAz4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)      | D1  |         |        |         |        |
+| 1859  | [백만 장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)  | D2  |         |        |         |        |
+| 1926  | [간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)   | D2  |         |        |         |        |
+| 1974  | [스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)      | D2  |         |        |         |        |
 
 <details>
   <summary>
@@ -460,13 +459,13 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 
 ### <br/>📖 **8주차** (22.09.19 ~ 22.09.25)
 
-| 문제 번호 |                                                                                                                                    문제 이름                                                                                                                                     | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   2058    |  [자릿수 더하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QPRjqA10DFAUq&categoryId=AV5QPRjqA10DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)   |   D1   |             |           |             |           |
-|   2063    |   [중간값 찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QPsXKA2UDFAUq&categoryId=AV5QPsXKA2UDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)    |   D1   |             |           |             |           |
-|   2007    | [패턴 마디의 길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) |   D2   |             |           |             |           |
-|   2001    |    [파리 퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)     |   D2   |             |           |             |           |
-|   1986    |  [지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)   |   D2   |             |           |             |           |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                     | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
+|:-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:------:|
+| 2058  | [자릿수 더하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QPRjqA10DFAUq&categoryId=AV5QPRjqA10DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)   | D1  |         |        |         |        |
+| 2063  | [중간값 찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QPsXKA2UDFAUq&categoryId=AV5QPsXKA2UDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)    | D1  |         |        |         |        |
+| 2007  | [패턴 마디의 길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) | D2  |         |        |         |        |
+| 2001  | [파리 퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)     | D2  |         |        |         |        |
+| 1986  | [지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)   | D2  |         |        |         |        |
 
 <details>
   <summary>
@@ -476,13 +475,13 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 
 ### <br/>📖 **9주차** (22.09.26 ~ 22.10.02)
 
-| 문제 번호 |                                                                                                                                        문제 이름                                                                                                                                        | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   2068    |      [최대수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QQhbqA4QDFAUq&categoryId=AV5QQhbqA4QDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)      |   D1   |             |           |             |           |
-|   2070    | [큰 놈, 작은 놈, 같은 놈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QQ6qqA40DFAUq&categoryId=AV5QQ6qqA40DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1) |   D1   |             |           |             |           |
-|   1928    |     [Base64 Decoder](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PR4DKAG0DFAUq&categoryId=AV5PR4DKAG0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)      |   D2   |             |           |             |           |
-|   1954    |       [달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)       |   D2   |             |           |             |           |
-|   1984    |   [중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pw_-KAdcDFAUq&categoryId=AV5Pw_-KAdcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)    |   D2   |             |           |             |           |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                           | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
+|:-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:------:|
+| 2068  | [최대수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QQhbqA4QDFAUq&categoryId=AV5QQhbqA4QDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1)         | D1  |         |        |         |        |
+| 2070  | [큰 놈, 작은 놈, 같은 놈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QQ6qqA40DFAUq&categoryId=AV5QQ6qqA40DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=1) | D1  |         |        |         |        |
+| 1928  | [Base64 Decoder](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PR4DKAG0DFAUq&categoryId=AV5PR4DKAG0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=3)  | D2  |         |        |         |        |
+| 1954  | [달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)          | D2  |         |        |         |        |
+| 1984  | [중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pw_-KAdcDFAUq&categoryId=AV5Pw_-KAdcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1)      | D2  |         |        |         |        |
 
 <details>
   <summary>
