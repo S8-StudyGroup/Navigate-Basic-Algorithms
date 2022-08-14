@@ -12,11 +12,14 @@ for test_case in range(1, T + 1):
         list_line = input().split()  # 한 input 줄에 mode와 a가 섞여있기 때문에 각 줄을 split한 다음
 
         # 밑 if,else 구문이 필요한 이유 : 0인 경우에는 m, v로 input 값이 저장하고자 하는 곳과 개수가 맞지 않아 Error 발생
-        if len(list_line) == 2:  # 만약 주행모드가 0이 아닌 경우 -> 각 주행모드와 가속도를 리스트에 삽입
+        # 만약 주행모드가 0이 아닌 경우
+        if len(list_line) == 2:  ## -> 각 주행모드와 가속도를 리스트에 삽입
             m, v = map(int, list_line)
             mode.append(m)
             a.append(v)
-        else:  # 만약 주행모드가 0인 경우 -> 주행모드와 가속도는 모두 0으로 리스트에 삽입
+        
+        # 만약 주행모드가 0인 경우
+        else:  ## -> 주행모드와 가속도는 모두 0으로 리스트에 삽입
             mode.append(0)
             a.append(0)
 
