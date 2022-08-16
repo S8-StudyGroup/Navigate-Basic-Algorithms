@@ -2,9 +2,9 @@
 
 n = int(input())
 
-sum_num = 0
+sn = 0
 
 for i in range(n + 1):
-    sum_num += i
+    sn += i
 
-print(sum_num)
+print(sn)
