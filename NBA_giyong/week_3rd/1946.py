@@ -18,3 +18,4 @@ for tc in range(1, t + 1):
             print(answer[i:i+10], end='\n')
         else:
             print(answer[i:i+10])
+            
