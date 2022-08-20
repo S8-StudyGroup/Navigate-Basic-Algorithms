@@ -11,12 +11,10 @@ for test_case in range(1, T + 1):
         else:  # 처음 세는 숫자면 key와 함께 값 1로 초기화
             num_count[score] = 1
     # 점수(key)의 개수(value)가 가장 높은 개수의 값(max())과 같으면 그 숫자(key)를 리스트에 저장
-    maxnum_score = list()
+    maxnum_score = list()  # 1개 이상 받기 위해서
     for k, v in num_count.items():
         if max(num_count.values()) == v:
             maxnum_score.append(k)
 
-    print(f'#{test_num} ', end='')
-    for num in maxnum_score:
-        print(num, end=' ')
-    print()
+    print(f'#{test_num} {max(maxnum_score)}')
+    

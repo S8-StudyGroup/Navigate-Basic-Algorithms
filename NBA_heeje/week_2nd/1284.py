@@ -11,6 +11,8 @@ for test_case in range(1, T + 1):
     ans = 0
 
     # A, B사 요금 계산
+    # 월간 사용량 W이 R리터 이하일 경우 기본 요금만 청구
+    # R리터보다 많을 경우 **초과량**에 대해 1리터랑 S원의 요금 청구
     costA = W * P
     costB = 0
     if W <= R:
