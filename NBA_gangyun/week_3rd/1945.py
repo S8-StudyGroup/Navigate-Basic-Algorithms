@@ -1,9 +1,5 @@
 # 간단한 소인수분해
 
-import sys
-sys.stdin = open('input.txt')
-
-
 def func(divider, N):
     count = 0
     while N % divider == 0:
