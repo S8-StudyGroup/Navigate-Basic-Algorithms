@@ -1,5 +1,6 @@
 # 대각선 출력하기
 
+
 my_text = "#++++"
 print(my_text)
 for i in range(4):
