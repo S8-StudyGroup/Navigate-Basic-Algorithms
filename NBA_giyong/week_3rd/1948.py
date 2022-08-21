@@ -1,5 +1,4 @@
 # 날짜 계산기
-# 날짜 계산기
 import sys
 
 sys.stdin = open("input.txt")
