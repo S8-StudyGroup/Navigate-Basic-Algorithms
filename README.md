@@ -47,7 +47,7 @@
       <br><li>5문제 중 각각 1문제씩 골라 회의 날짜에 발표합니다. 이 때, 관련 개념에 대해 함께 설명하여야 하며, 모든 팀원이 이해할 수 있도록 충분히 노력하여야 합니다.</li>
       <br><li>해결한 문제들은 양식에 맞게 파일 내에 작성한 뒤 Github에 Push합니다.</li>
       <br><li>관련 개념들은 정리하여 노션 페이지에 업로드합니다.</li>
-      <br><li>월말에 각자의 개념정리 페이지 및 그동안의 회의를 토대로 팀원끼리 익명투표하여 <b>참여우수 교육생</b>을 선발합니다.</li>
+      <br><li>월말에 그동안의 회의를 토대로 팀원끼리 익명투표하여 <b>참여우수 교육생</b>을 선발합니다.</li>
     <br><li><b>매월 참여우수 교육생은 월말 결과보고서에 우수 교육생 관련하여 이름이 기재될 예정입니다.</b></li>
     </ul>
     </li>
@@ -380,29 +380,139 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 
 ### <br/>📖 **3주차** (22.08.15 ~ 22.08.21)
 
-| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                     | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀)                                                                                                    |
-|:-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:---------------------------------------------------------------------------------------------------------:|
-| 2025  | [N줄덧셈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFZtaAscDFAUq&categoryId=AV5QFZtaAscDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)      | D1  | 이강윤     |        | 양희제     | [바로  가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_3rd/2025.py)   |
-| 2027  | [대각선 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFuZ6As0DFAUq&categoryId=AV5QFuZ6As0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  | D1  | 김태학     |        | 김도언     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/week_3rd/2027.py)    |
-| 1945  | [간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2) | D2  | 박진성     |        | 유덕균     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_3rd/1945.py) |
-| 1946  | [간단한 압축풀기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)  | D2  | 양희제     |        | 조용현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_3rd/1946.py) |
-| 1948  | [날짜 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  | 이기용     |        | 송대현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_3rd/1948.py)  |
+| 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                     | 난이도 | 발표자(1팀) | 풀이(1팀)                                                                                                    | 발표자(2팀) | 풀이(2팀)                                                                                                    |
+|:-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:---------------------------------------------------------------------------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------------------:|
+| 2025  | [N줄덧셈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFZtaAscDFAUq&categoryId=AV5QFZtaAscDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)      | D1  | 이강윤     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/week_3rd/2025.py)  | 양희제     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_3rd/2025.py)    |
+| 2027  | [대각선 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFuZ6As0DFAUq&categoryId=AV5QFuZ6As0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)  | D1  | 김태학     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/week_3rd/2027.py)   | 김도언     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/week_3rd/2027.py)    |
+| 1945  | [간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2) | D2  | 박진성     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/week_3rd/1945.py) | 유덕균     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_3rd/1945.py) |
+| 1946  | [간단한 압축풀기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)  | D2  | 양희제     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_3rd/1946.py)    | 조용현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_3rd/1946.py) |
+| 1948  | [날짜 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  | 이기용     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/week_3rd/1948.py)   | 송대현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_3rd/1948.py)  |
 
 <details>
   <summary>
     <b>3주차 회의 내용 관련 개념 정리</b>
   </summary>
+
+## <br><b>Time Complexity(시간 복잡도)</b>
+
+  <br>알고리즘의 로직을 코드로 구현할 때, 시간 복잡도를 고려한다는 것은 입력값의 변화에 따라 연산을 실행할 때, 연산 횟수에 비해 시간이 얼마만큼 걸리는가? 와 같습니다. 즉 효율적인 알고리즘을 구현한다는 것은 입력값이 커짐에 따라 증가하는 시간의 비율을 최소화한 알고리즘이라고 말할 수 있습니다.
+
+  <br><b>시간 복잡도를 표기하는 방법</b>
+
+- 최악의 경우 : Big-O(빅-오) ⇒ 상한 점근
+
+- 최선의 경우 : Big-Ω(빅-오메가) ⇒ 하한 점근
+
+- 중간의 경우 : Big-θ(빅-세타) ⇒ 그 둘의 평균
+  
+  <br> Big-O 표기법은 최악의 경우를 고려하므로, 프로그램이 실행되는 과정에서 소요되는 최악의 시간까지 고려할 수 있다.
+  
+  <br>
+
+- N줄덧셈
+  
+  ```python
+  # N줄덧셈
+  T = int(input())
+  print(T * (T + 1) // 2)
+  
+  # 1. 등차수열의 합 공식
+  # 시간복잡도 : O(4) = O(1)
+  # sum = N * (N + 1) // 2
+  ```
+
+# 2. 1부터 N까지 반복문을 돌며 합을 계산
+
+# 시간복잡도 : O(N)
+
+# sum = 0
+
+# for i in range(1, N + 1):
+
+# sum += i
+
+```
+<br>
+
+- 1초가 걸릴 때 입력의 최대 크기
+
+- O(N) : 약 1억
+- O(N^2) : 약 1만
+- O(N^3) : 약 500
+- O(2^N) : 약 20
+- O(N!) : 10
+
+<br>
+
+## <br><b>zip</b>
+
+<br> <code>zip()</code> 함수는 여러 개의 iterable한 객체를 인자로 받고 각 객체가 담고 있는 원소를 튜플의 형태로 차례로 접근할 수 있는 반복자(iterator)를 반환합니다.
+
+<br>
+
+```python
+open_brackets = ['(', '[', '{', '<']
+closed_brackets = [')', ']', '}', '>']
+
+for pair in zip(open_brackets, closed_brackets):
+print(pair)
+
+
+# ('(', ')')
+# ('[', ']')
+# ('{', '}')
+# ('<', '>')
+```
+
+<br>
+
+위 코드와 같이, <code>zip()</code> 함수를 사용하면 마치 옷의 지퍼를 올리는 것처럼 양 측에 있는 데이터를 하나씩 차례로 짝을 지어줍니다.
+
+<br>
+
+- <b>활용 예시</b>
+
+```python
+# 2차원 리스트 다루기
+
+a = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+
+# 90도 회전
+rotated_a = list(zip(*a[::-1]))
+# [
+# [7, 4, 1],
+# [8, 5, 2],
+# [9, 6, 3]
+# ]
+
+# 행과 열 바꾸기
+change_row_and_col_a = list(zip(*a))
+# [
+# [1, 4, 7],
+# [2, 5, 8],
+# [3, 6, 9]
+# ]
+```
+
+<hr>
+
+출처 : [ONOFF.log](https://velog.io/@hongin/python2%EC%B0%A8%EC%9B%90-%EB%A6%AC%EC%8A%A4%ED%8A%B8-90%EB%8F%84-%ED%9A%8C%EC%A0%84-%ED%96%89%EA%B3%BC-%EC%97%B4-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+
 </details>
 
 ### <br/>📖 **4주차** (22.08.22 ~ 22.08.28)
 
 | 문제 번호 | 문제 이름                                                                                                                                                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
 |:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------:|:------:|:-------:|:------:|
-| 2029  | [몫과 나머지 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) | D1  |         |        | 조용현     |        |
-| 2043  | [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    | D1  |         |        | 김도언     |        |
-| 1961  | [숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  |         |        | 송대현     |        |
-| 1966  | [숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  |         |        | 양희제     |        |
-| 1970  | [쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)     | D2  |         |        | 유덕균     |        |
+| 2029  | [몫과 나머지 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) | D1  | 박진성     |        | 조용현     |        |
+| 2043  | [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    | D1  | 이기용     |        | 김도언     |        |
+| 1961  | [숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  | 김태학     |        | 송대현     |        |
+| 1966  | [숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    | D2  | 양희제     |        | 양희제     |        |
+| 1970  | [쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)     | D2  | 이강윤     |        | 유덕균     |        |
 
 <details>
   <summary>
