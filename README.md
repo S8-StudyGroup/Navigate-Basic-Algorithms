@@ -404,13 +404,13 @@ print({1, 2, 3}[0]) # TypeError: 'set' object is not subscriptable
 - 최선의 경우 : Big-Ω(빅-오메가) ⇒ 하한 점근
 
 - 중간의 경우 : Big-θ(빅-세타) ⇒ 그 둘의 평균
-  
+
 <br> Big-O 표기법은 최악의 경우를 고려하므로, 프로그램이 실행되는 과정에서 소요되는 최악의 시간까지 고려할 수 있다.
-  
-  <br>
+
+<br>
 
 - N줄덧셈
-  
+
 ```python
 # N줄덧셈
 T = int(input())
@@ -426,10 +426,11 @@ print(T * (T + 1) // 2)
 # for i in range(1, N + 1):
 # sum += i
 ```
+
 <br>
 
 - 1초가 걸릴 때 입력의 최대 크기
-
+  
   - O(N) : 약 1억
   - O(N^2) : 약 1만
   - O(N^3) : 약 500
@@ -500,18 +501,135 @@ change_row_and_col_a = list(zip(*a))
 
 ### <br/>📖 **4주차** (22.08.22 ~ 22.08.28)
 
-| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 | 발표자(1팀) | 풀이(1팀) | 발표자(2팀) | 풀이(2팀) |
-| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :---------: | :-------: | :---------: | :-------: |
-|   2029    | [몫과 나머지 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) |   D1   |   박진성    |           |   조용현    |           |
-|   2043    |   [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    |   D1   |   이기용    |           |   김도언    |           |
-|   1961    |    [숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |   김태학    |           |   송대현    |           |
-|   1966    |   [숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |   양희제    |           |   양희제    |           |
-|   1970    |    [쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)     |   D2   |   이강윤    |           |   유덕균    |           |
+| 문제 번호 |                                                                                                                                      문제 이름                                                                                                                                       | 난이도 |  발표자(1팀)  | 풀이(1팀) |  발표자(2팀)  |                                                   풀이(2팀)                                                   |
+| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----------: | :-------: | :-----------: | :-----------------------------------------------------------------------------------------------------------: |
+|   2029    | [몫과 나머지 출력하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2) |   D1   |    박진성     |           |    조용현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/week_4th/2029.py) |
+|   2043    |   [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=1&pageSize=10&pageIndex=2)    |   D1   |    이기용     |           |    김도언     |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/week_4th/2043.py)   |
+|   1961    |    [숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |    김태학     |           |    송대현     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/week_4th/1961.py)  |
+|   1966    |   [숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)    |   D2   |    양희제     |           |    양희제     |  [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/week_4th/1966.py)   |
+|   1970    |    [쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2)     |   D2   |    이강윤     |           |    유덕균     | [바로 가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/week_4th/1970.py) |
+|   2563    |                                                                                                                 [BOJ - 색종이](https://www.acmicpc.net/problem/2563)                                                                                                                 |   B1   | 김영주 교수님 |  게스트   | 김영주 교수님 |                                                    게스트                                                     |
 
 <details>
   <summary>
     <b>4주차 회의 내용 관련 개념 정리</b>
   </summary>
+
+  ## <br><b>정렬(Sort)</b>
+
+  <br>정렬이란, 2개 이상의 자료를 특정 기준에 의해 작은 값부터 큰 값(오름차순), 혹은 그 반대의 순서대로(내림차순) 재배열하는 것을 의미합니다.
+
+  <br><b>대표적인 정렬 방식의 종류</b>
+
+- 버블 정렬(Bubble Sort)
+- 카운팅 정렬(Counting Sort)
+- 선택 정렬(Selection Sort)
+- 퀵 정렬(Quick Sort)
+- 삽입 정렬(Insertion Sort)
+- 병합 정렬(Merge Sort)
+
+<br> 이번 회의에서는 이전에 학습하였던 버블 정렬과 카운팅 정렬, 그리고 내장 함수인 sort에 대해 알아보았습니다.
+
+<br><b>버블 정렬</b>
+
+- 인접한 두 개의 원소를 비교하며 자리를 계속 교환하는 방식입니다.
+- 정렬 과정
+  1. 첫 번째 원소부터 인접한 원소끼리 계속 자리를 교환하면서 맨 마지막 자리까지 이동합니다.
+  2. 한 단계가 끝나면 가장 큰 원소가 마지막 자리로 정렬됩니다.
+  3. 교환하며 자리를 이동하는 모습이 물 위에 올라오는 거품 모양과 같다고 하여 버블 정렬이라고 합니다.
+- 시간 복잡도(O(n^2))
+- 구현 방법
+
+<br>
+
+  ```python
+  T = int(input())
+
+for tc in range(1, T + 1):
+    N = int(input())
+    numbers = list(map(int, input().split()))
+
+    for j in range(N - 1, 0, -1):
+        for i in range(j):
+            if numbers[i] > numbers[i + 1]:
+                numbers[i], numbers[i + 1] = numbers[i + 1], numbers[i]
+
+    print(f"#{tc}", *numbers)
+
+  ```
+
+  <br>
+
+  <br><b>카운팅 정렬(Counting Sort)</b>
+
+  - 항목들의 순서를 결정하기 위해 집합에 각 항목이 몇 개씩 있는지 세는 작업을 하여, 선형 시간에 정렬하는 효율적인 알고리즘
+  - <b>제한 사항</b>
+    - 정수나 정수로 표현할 수 있는 자료에 대해서만 적용 가능 : 각 항목의 발생 횟수를 기록하기 위해, 정수 항목으로 인덱스되는 카운트들의 배열을 사용하기 때문입니다.
+      - 카운트들을 위한 충분한 공간을 할당하려면 집합 내의 가장 큰 정수를 알아야 합니다.
+  - 시간 복잡도(O(n + k))
+  - 구현 방법
+
+  <br>
+
+  ```python
+  T = int(input())
+
+  for tc in range(1, T + 1):
+      N = int(input())
+      numbers = list(map(int, input().split()))
+      max_num = max(numbers)
+      c = [0] * (max_num + 1)
+      sorted_numbers = []
+
+      for number in numbers:
+          c[number] += 1
+
+      for i in range(len(c)):
+          while c[i]:
+              sorted_numbers.append(i)
+              c[i] -= 1
+
+      print(f"#{tc}", *sorted_numbers)
+  ```
+
+  <br>
+
+  <br><b>sort(), sorted()</b>
+
+  - sort, sorted는 내장함수이며, 내부적으로 병합 정렬을 적용하고 있습니다. 병합 정렬을 이용할 시 최악의 경우에도 O(NlogN)의 시간복잡도를 보장해준다는 장점이 있습니다.
+
+<br>
+
+<b>배열 회전에 관한 zip 활용 예시</b>
+
+```python
+# 2차원 리스트 다루기
+
+a = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+
+# 90도 회전
+rotated_a = list(zip(*a[::-1]))
+# [
+# [7, 4, 1],
+# [8, 5, 2],
+# [9, 6, 3]
+# ]
+
+# 행과 열 바꾸기
+change_row_and_col_a = list(zip(*a))
+# [
+# [1, 4, 7],
+# [2, 5, 8],
+# [3, 6, 9]
+# ]
+```
+
+<br>
+
 </details>
 
 ### <br/>📖 **5주차** (22.08.29 ~ 22.09.04)
