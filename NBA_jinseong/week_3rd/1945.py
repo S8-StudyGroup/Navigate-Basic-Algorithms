@@ -10,7 +10,7 @@ for t in range(1, int(input()) + 1):
         while True:
             # 소인수로 나눠지면 나눈 몫을 저장하고 카운트
             if n % num == 0:
-                n /= num
+                n //= num
                 cnt += 1
             else:
                 break
