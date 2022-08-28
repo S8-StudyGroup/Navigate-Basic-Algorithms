@@ -25,8 +25,6 @@ for case in range(1, int(input()) + 1):
 
     result3 = rotate(result2, size)
 
-    result = [result1, result2, result3]
-
     print(f'#{case}')
     for i in range(size):
         print(result1[i], result2[i], result3[i])
