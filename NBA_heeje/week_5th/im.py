@@ -19,7 +19,7 @@ for tc in range(1, T + 1):
     max_score = max(scores)
     answer = -1  # 조건에 맞게 반을 편성할 수 없는 경우 초기값인 -1 반환
 
-    for T1 in range(max_score):  # T1, T2 : 반을 나누는 기준 점수
+    for T1 in range(1, max_score):  # T1, T2 : 반을 나누는 기준 점수
         for T2 in range(T1 + 1, max_score + 1):  # 최대 점수 내에서 T1, T2가 될 수 있는 모든 경우의 수를 탐색
             classroom = {'A': 0, 'B': 0, 'C': 0}  # 반 배정 딕셔너리
 
