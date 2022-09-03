@@ -657,7 +657,7 @@ change_row_and_col_a = list(zip(*a))
 | 문제 번호 |                                                   문제 이름                                                   | 난이도 |  발표자(1팀)   | 풀이(1팀) |  발표자(2팀)   | 풀이(2팀) |
 | :-------: | :-----------------------------------------------------------------------------------------------------------: | :----: | :------------: | :-------: | :------------: | :-------: |
 |   4013    | [특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&) |   D4   | 양희제, 게스트 |           | 유덕균, 송대현 |           |
-|   1220    |   [Magnetic](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD)   |   D3   | 박진성, 이기용 |           | 김도언, 게스트 |           |
+|   1220    |   [Magnetic](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD)   |   D3   | 박진성, 이기용 |           | 김도언, 김도희 |           |
 |   60058   |                 [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)                  |  LV2   | 김태학, 이강윤 |           | 양희제, 조용현 |           |
 
 <details>
