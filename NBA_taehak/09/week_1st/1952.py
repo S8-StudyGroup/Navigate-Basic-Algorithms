@@ -1,6 +1,5 @@
-# 1952. [모의 SW 역량테스트] 수영장
+# swea 1952. [모의 SW 역량테스트]수영장
 
-# swea 1952. [모의 SW 역량테스트] 수영장
 # dp - bottom-up
 for case in range(1, int(input()) + 1):
 
