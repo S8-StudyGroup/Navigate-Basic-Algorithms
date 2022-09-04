@@ -2,13 +2,14 @@
 
 
 def rule(number, start):
-    global result_cnt, result_numbers
+    global cnt
 
     if number - start >= 0:
         numbers.append(number - start)
-        result_cnt += 1
+        cnt += 1
         rule(numbers[-2], numbers[-1])
     else:
+        result_cnt.append(cnt)
         result_numbers.append(numbers)
 
 
