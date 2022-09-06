@@ -17,5 +17,8 @@ for _ in range(paper):
             if arr[i][j] != 1:
                 arr[i][j] = 1
                 count += 1
+                
+# count = sum([sum(line) for line in paper])                
+# count = sum(map(sum, arr))
 
 print(count)
