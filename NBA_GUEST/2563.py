@@ -1,7 +1,6 @@
 # 백준 - 색종이
 # Guest - 김영주 교수님
 
-# 풀이
 paper = [[0] * 100 for _ in range(100)]
 
 t = int(input())
