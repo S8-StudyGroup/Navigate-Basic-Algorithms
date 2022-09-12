@@ -640,11 +640,11 @@ change_row_and_col_a = list(zip(*a))
 
 ### <br/>📖 **1주차** (22.09.01 ~ 22.09.07)
 
-| 문제 번호 | 문제 이름                                                                                                 | 난이도 | 발표자 및 풀이(1팀)                                                                                                                                                                                                          | 발표자 및 풀이(2팀)                                                                                                                                                                                                            |
-|:-----:|:-----------------------------------------------------------------------------------------------------:|:---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1952  | [수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&) | D4  | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/09/week_1st/1952.py), [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/09/week_1st/1952.py)   | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/09/week_1st/1952.py), [오태훈](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/1952.py)                    |
-| 2635  | [수 이어가기](https://www.acmicpc.net/problem/2635)                                                        | S5  | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/09/week_1st/2635.py), [이가은](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/2635.py)                 | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/09/week_1st/2635.py), [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/09/week_1st/2635.py)     |
-| 42888 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)                              | LV2 | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/09/week_1st/42888.py), [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/09/week_1st/42888.py) | [송대현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/09/week_1st/42888.py), [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/09/week_1st/42888.py) |
+| 문제 이름                                                                                                              | 난이도 | 발표자 및 풀이(1팀)                                                                                                                                                                                                          | 발표자 및 풀이(2팀)                                                                                                                                                                                                            |
+|:------------------------------------------------------------------------------------------------------------------:|:---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [[SWEA] 1952. 수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&) | D4  | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/09/week_1st/1952.py), [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/09/week_1st/1952.py)   | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/09/week_1st/1952.py), [오태훈](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/1952.py)                    |
+| [[BOJ] 2635. 수 이어가기](https://www.acmicpc.net/problem/2635)                                                         | S5  | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/09/week_1st/2635.py), [이가은](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/2635.py)                 | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/09/week_1st/2635.py), [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/09/week_1st/2635.py)     |
+| [[Programmers] 42888. 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)                      | LV2 | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/09/week_1st/42888.py), [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/09/week_1st/42888.py) | [송대현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/09/week_1st/42888.py), [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/09/week_1st/42888.py) |
 
 <details>
   <summary>
@@ -654,11 +654,11 @@ change_row_and_col_a = list(zip(*a))
 
 ### <br/>📖 **2주차** (22.09.08 ~ 22.09.14)
 
-| 문제 번호 | 문제 이름                                                                                                     | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
-|:-----:|:---------------------------------------------------------------------------------------------------------:|:---:|:------------:|:------------:|
-| 4013  | [특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&)  | D4  | 양희제, 이용준     | 유덕균, 송대현     |
-| 1220  | [Magnetic](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD) | D3  | 박진성, 이기용     | 김도언, 김도희     |
-| 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)                                  | LV2 | 김태학, 이강윤     | 양희제, 조용현     |
+| 문제 이름                                                                                                                  | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+|:----------------------------------------------------------------------------------------------------------------------:|:---:|:------------:|:------------:|
+| [[SWEA] 4013. 특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&)  | D4  | 양희제, 이용준     | 유덕균, 송대현     |
+| [[SWEA] 1220. Magnetic](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD) | D3  | 박진성, 이기용     | 김도언, 김도희     |
+| [[Programmers] 60058. 괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)                          | LV2 | 김태학, 이강윤     | 양희제, 조용현     |
 
 <details>
   <summary>
@@ -671,7 +671,7 @@ change_row_and_col_a = list(zip(*a))
 | 문제 이름                                                                                                                 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
 |:---------------------------------------------------------------------------------------------------------------------:|:---:|:------------:|:------------:|
 | [[SWEA] 4008. 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)  | D4  |              |              |
-| [[SWEA] 1211. Ladder2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14BgD6AEECFAYh) | D4  |              | 조            |
+| [[SWEA] 1211. Ladder2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14BgD6AEECFAYh) | D4  |              |              |
 | [[Programmers] 17681. [1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                     | LV1 |              |              |
 
 <details>
@@ -682,11 +682,11 @@ change_row_and_col_a = list(zip(*a))
 
 ### <br/>📖 **4주차** (22.09.22 ~ 22.09.28)
 
-| 문제 번호 | 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
-|:-----:|:-----:|:---:|:------------:|:------------:|
-|       |       |     |              |              |
-|       |       |     |              |              |
-|       |       |     |              |              |
+| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+|:-----:|:---:|:------------:|:------------:|
+|       |     |              |              |
+|       |     |              |              |
+|       |     |              |              |
 
 <details>
   <summary>
