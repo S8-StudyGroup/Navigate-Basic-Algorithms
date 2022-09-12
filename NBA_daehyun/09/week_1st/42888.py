@@ -1,18 +1,21 @@
 # 42888. 오픈채팅방
 def solution(record):
-    id_set = set()                                               ##유저들의 id를 담을 집합
-    for i in record:                                             ##레코드를 순회하면서 id부분만을 집합에 담기.
+    id_set = set()  ##유저들의 id를 담을 집합
+    for i in record:  ##레코드를 순회하면서 id부분만을 집합에 담기.
         a = i.split()
         id_set.add(a[1])
 
-    id_nick_dict = {i: 0 for i in id_set}                        ##각각의 id를 key로 지정하고, value는 0으로 되어있는 딕셔너리 만들어놓기.
+    id_nick_dict = {
+        i: 0 for i in id_set
+    }  ##각각의 id를 key로 지정하고, value는 0으로 되어있는 딕셔너리 만들어놓기.
 
-    for i in record:                                             ##레코드를 순회하면서 Leave가 아니라면 방금 만든 딕셔너리에 각 id에 해당하는 닉네임 value로 변경.
-        if i.split()[0] != 'Leave':                              ##계속 변경하다보면 각 id마다 최신 닉네임을 value로 가지게 될것.
+    for i in record:
+        a = i.split()  ##레코드를 순회하면서 Leave가 아니라면 방금 만든 딕셔너리에 각 id에 해당하는 닉네임 value로 변경.
+        if a[0] != 'Leave':  ##계속 변경하다보면 각 id마다 최신 닉네임을 value로 가지게 될것.
             id_nick_dict[i.split()[1]] = i.split()[2]
 
-    result = []                                                  ##결과를 담을 빈 리스트.
-    for i in record:                                             ##레코드를 순회하면서 각 id마다 행동에 맞게 닉네임 + 들어오기/나가기 문구 써서 result에 append.
+    result = []  ##결과를 담을 빈 리스트.
+    for i in record:  ##레코드를 순회하면서 각 id마다 행동에 맞게 닉네임 + 들어오기/나가기 문구 써서 result에 append.
         a = i.split()
         if a[0] == 'Enter':
             result.append(id_nick_dict[a[1]] + '님이 들어왔습니다.')
