@@ -12,6 +12,6 @@ for tc in range(1, 11):
                 prev = 1  # prev에 1 저장
             if table[j][i] == 2:  # 푸른 자성체이면
                 if prev == 1:  # prev가 1인 경우 교착 상태로 판단하여
-                    prev = 0  # prev를 2로 바꾸고
+                    prev = 0  # prev를 0으로 바꾸고
                     cnt += 1  # 교착상태 개수 + 1
     print(f"#{tc} {cnt}")
