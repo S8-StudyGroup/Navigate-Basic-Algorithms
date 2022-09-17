@@ -1,4 +1,4 @@
-# 백준 - 색종이
+# [BOJ] 색종이
 # Guest - 김영주 교수님
 
 paper = [[0] * 100 for _ in range(100)]

@@ -1,4 +1,4 @@
-# SWEA - 수 이어가기
+# [SWEA] 수 이어가기
 # Guest - 이가은
 
 n = int(input())
