@@ -668,11 +668,11 @@ change_row_and_col_a = list(zip(*a))
 
 ### <br/>📖 **3주차** (22.09.15 ~ 22.09.21)
 
-| 문제 이름                                                                                                                 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
-|:---------------------------------------------------------------------------------------------------------------------:|:---:|:------------:|:------------:|
-| [[SWEA] 4008. 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)  | D4  |              |              |
-| [[SWEA] 1211. Ladder2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14BgD6AEECFAYh) | D4  |              |              |
-| [[Programmers] 17681. [1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                     | LV1 |              |              |
+| 문제 이름                                                                                                                 | 난이도 | 발표자 및 풀이(1팀)    | 발표자 및 풀이(2팀)    |
+|:---------------------------------------------------------------------------------------------------------------------:|:---:|:---------------:|:---------------:|
+| [[SWEA] 4008. 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)  | D4  | 김태학, 임성빈(Guest) | 양희제, 김진호(Guest) |
+| [[SWEA] 1211. Ladder2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14BgD6AEECFAYh) | D4  | 양희제, 이강윤        | 김도언, 조용현        |
+| [[Programmers] 17681. [1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                     | LV1 | 박진성, 이기용        | 유덕균, 송대현        |
 
 <details>
   <summary>
