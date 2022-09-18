@@ -4,14 +4,13 @@
 def solution(n, arr1, arr2):
     whole_map = []
     for i in range(n):
-        whole_map.append(int(arr1[i]) | int(arr2[i]))
+        whole_map.append(arr1[i] | arr2[i])   # or 비트연산
 
-    print(whole_map)
     answer = []
     for i in range(n):
-        binary = bin(whole_map[i])[2:n+2]
+        binary = bin(whole_map[i])[2:n+2]               # 0b010000 에서 0b 빼기
         if len(binary) != n:
-            binary = '0' * (n - len(binary)) + binary
+            binary = '0' * (n - len(binary)) + binary   # 자릿수 맞춰주기
         answer.append(binary.replace('1', '#').replace('0', ' '))
 
     return answer
