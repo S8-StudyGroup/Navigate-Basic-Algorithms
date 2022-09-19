@@ -140,7 +140,7 @@
   </div>
 </details><br>
 
-## <br/>📒 **9월 세부 계획**
+## <br/>📒 **22년 9월 세부 계획**
 
 ### <br/>📖 **1주차** (22.09.01 ~ 22.09.07)
 
@@ -242,7 +242,9 @@ print(fibo(99))
   <br>
   
 <hr>
+
   출처 : [DOing](https://doing7.tistory.com/75)
+
 <br>
 
 </details>
@@ -308,7 +310,9 @@ q1 = deque(maxlen=9) # 최대 길이가 9인 deque 생성
 <br>
 
 <hr>
+
   출처 : [Block Chain & NFT](https://codingpractices.tistory.com/entry/Python%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%99%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%8C%80%EC%8B%A0-%ED%81%90-%EB%8D%B0%ED%81%AC-deque-%EB%A5%BC-%EC%93%B8%EA%B9%8C)
+
 <br>
 
 </details>
@@ -341,7 +345,7 @@ q1 = deque(maxlen=9) # 최대 길이가 9인 deque 생성
   </summary>
 </details>
 
-## <br/>📒 **8월 세부 계획**
+## <br/>📒 **22년 8월 세부 계획**
 
 ### <br/>📖 **1주차** (22.08.01 ~ 22.08.07)
 
