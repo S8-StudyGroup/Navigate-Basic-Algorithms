@@ -7,15 +7,15 @@
 # cur_arr: 현재 누적 중인 연산자 리스트, oper_arr: 사용해야하는 연산자 리스트, n: 사용해야하는 연산자 개수
 def make_permutations_overlapped_numbers(cur_arr, oper_arr, n):
 
-    if n == 0:  # 모든 연산자를 사용하였다면
-        operator_case.append(cur_arr)  # 현재까지 누적된 연산자 리스트를 따로 저장해준 뒤
-        return  # 재귀를 빠져나온다.
+    if n == 0:                          # 모든 연산자를 사용하였다면
+        operator_case.append(cur_arr)   # 현재까지 누적된 연산자 리스트를 따로 저장해준 뒤
+        return                          # 재귀를 빠져나온다.
 
     # 0: 더하기, 1: 빼기, 2: 곱하기, 3: 나누기
-    for i in range(4):  # oper_arr 순환
-        if oper_arr[i] != 0:  # 해당 연산자를 사용해야 한다면
-            new_oper_arr = oper_arr[:]  # oper_arr 복사(중요!)
-            new_oper_arr[i] -= 1  # 해당 연산자를 사용할 거니까 1 빼준다.
+    for i in range(4):                      # oper_arr 순환
+        if oper_arr[i] != 0:                # 해당 연산자를 사용해야 한다면
+            new_oper_arr = oper_arr[:]      # oper_arr 복사(중요!)
+            new_oper_arr[i] -= 1            # 해당 연산자를 사용할 거니까 1 빼준다.
 
             # cur_arr에 해당 연산자 추가, new_oper_arr로 교체, 남은 연산자 개수에 1을 빼준 값으로 재귀
             make_permutations_overlapped_numbers(cur_arr + [i], new_oper_arr, n - 1)
@@ -27,7 +27,7 @@ operator_dict = {
     1: lambda x, y: x - y,
     2: lambda x, y: x * y,
     3: lambda x, y: x // y if x >= 0 else -(-x // y),
-    # -2 // 3을 했을 때 원하는 값: -2, 실제 나오는 값: -1
+    # -2 // 3을 했을 때 원하는 값: 0, 실제 나오는 값: -1
     # Why? https://gksdudrb922.tistory.com/207
 }
 T = int(input())
