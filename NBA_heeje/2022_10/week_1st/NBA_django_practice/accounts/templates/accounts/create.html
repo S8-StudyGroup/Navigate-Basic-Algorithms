@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Signup</h1>
+<form action="{% url 'accounts:create' %}" method='POST'>
+  {% csrf_token %}
+  {{ form.as_p }}
+  <input type="submit" value='CREATE'>
+</form>
+<hr>
+<a href="{% url 'accounts:index' %}">BACK</a>
+{% endblock content %}
