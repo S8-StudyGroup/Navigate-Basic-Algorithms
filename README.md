@@ -140,6 +140,66 @@
   </div>
 </details><br>
 
+## <br/>📒 **22년 10월 세부 계획**
+
+### <br/>📖 **1주차** (22.10.01 ~ 22.10.07)
+
+| 문제 이름                                                                                                                 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+|:---------------------------------------------------------------------------------------------------------------------:|:---:|:------------:|:------------:|
+| [[SWEA] 1949. 등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&) | D5  |              |              |
+| [[BOJ] 7576. 토마토](https://www.acmicpc.net/problem/7576)                                                               | G5  |              |              |
+| [[Programmers] 120861. 캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)                     | LV2 |              |              |
+
+<details>
+  <summary>
+    <b>10월 1주차 회의 내용 관련 개념 정리</b>
+  </summary>
+
+</details>
+
+### <br/>📖 **2주차** (22.10.08 ~ 22.10.14)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+|:-----:|:---:|:------------:|:------------:|
+|       |     |              |              |
+|       |     |              |              |
+|       |     |              |              |
+
+<details>
+  <summary>
+    <b>10월 2주차 회의 내용 관련 개념 정리</b>
+  </summary>
+
+</details>
+
+### <br/>📖 **3주차** (22.10.15 ~ 22.10.21)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+|:-----:|:---:|:------------:|:------------:|
+|       |     |              |              |
+|       |     |              |              |
+|       |     |              |              |
+
+<details>
+  <summary>
+    <b>10월 3주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
+
+### <br/>📖 **4주차** (22.10.22 ~ 22.10.28)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+|:-----:|:---:|:------------:|:------------:|
+|       |     |              |              |
+|       |     |              |              |
+|       |     |              |              |
+
+<details>
+  <summary>
+    <b>4주차 회의 내용 관련 개념 정리</b>
+  </summary>
+</details>
+
 ## <br/>📒 **22년 9월 세부 계획**
 
 ### <br/>📖 **1주차** (22.09.01 ~ 22.09.07)
@@ -330,21 +390,26 @@ q1 = deque(maxlen=9) # 최대 길이가 9인 deque 생성
 
 <details>
   <summary>
-    <b>3주차 회의 내용 관련 개념 정리</b>
+    <b>9월 3주차 회의 내용 관련 개념 정리</b>
   </summary>
 </details>
 
 ### <br/>📖 **4주차** (22.09.22 ~ 22.09.28)
 
-| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
-|:-----:|:---:|:------------:|:------------:|
-|       |     |              |              |
-|       |     |              |              |
-|       |     |              |              |
+| 문제 이름                                                                                                                                                                                                                                                                                                | 난이도 | 발표자 및 풀이(1팀)                                                                                                                                            | 발표자 및 풀이(2팀)                                                                                                         |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+| [[SWEA] 1244. 최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=%EC%B5%9C%EB%8C%80+%EC%83%81%EA%B8%88&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D3  | -                                                                                                                                                       | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_09/week_4th/1244.py)         |
+| [[Programmers] Test. 이진 트리](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_09/week_4th/bin_tree.png)                                                                                                                                                             | LV3 | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_09/week_4th/bin_tree.py)                                       | -                                                                                                                    |
+| [[SWEA] 5207. 이진 탐색](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT)                                                                                                                                                            | D3  | [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_09/week_4th/5207.py)                                         | -                                                                                                                    |
+| [[SWEA] 5024. 병합 정렬](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT&&#)                                                                                                                                                         | D3  | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_09/week_4th/5204.py)                                            | [송대현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/2022_09/week_4th/5024.py)       |
+| [[SWEA] 5650. 핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo&)                                                                                                                                                                                 | D4  | -                                                                                                                                                       | [유덕균](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo&)                |
+| [Programmers] Test. 이모티콘                                                                                                                                                                                                                                                                             | LV3 | [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_09/week_4th/kakao_3.py)                                       | -                                                                                                                    |
+| [[SWEA] 5178. 노드의 합](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg)                                                                                                                                                            | D3  | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_09/week_4th/5178%20%EB%85%B8%EB%93%9C%EC%9D%98%20%ED%95%A9.py) | -                                                                                                                    |
+| [[BOJ] 1991. 트리 순회](https://www.acmicpc.net/problem/1991)                                                                                                                                                                                                                                            | S1  | -                                                                                                                                                       | [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_09/week_4th/problem_1.py) |
 
 <details>
   <summary>
-    <b>4주차 회의 내용 관련 개념 정리</b>
+    <b>9월 4주차 회의 내용 관련 개념 정리</b>
   </summary>
 </details>
 
