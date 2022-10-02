@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Accounts</h1>
+{% for user in users %}
+<h3>번호: {{ user.pk }}</h3>
+<p>아이디: {{ user.username }}</p>
+{% endfor %}
+{% endblock content %}
