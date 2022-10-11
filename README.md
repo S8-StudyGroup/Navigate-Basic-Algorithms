@@ -144,11 +144,29 @@
 
 ### <br/>📖 **1주차** (22.10.01 ~ 22.10.07)
 
-| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
-|:-----:|:---:|:------------:|:------------:|
-|       |     |              |              |
-|       |     |              |              |
-|       |     |              |              |
+<br>
+
+<strong>✅ Django 복습</strong>
+
+<br>
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89143804/194996116-a6410f66-1f69-4251-89a9-3a7d31ca32f0.png">
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89143804/194996440-d3c22d53-8172-4f00-a039-8ca1fa48aad7.png">
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89143804/194996578-658f7c31-62ef-4983-9676-13a1709ca076.png">
+
+| 이름                                                                                                      | 제출 확인 |
+|:-------------------------------------------------------------------------------------------------------:|:-----:|
+| [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_doeon/2022_10/week_1st)    | ✅     |
+| [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_taehak/2022_10/week_1st)   | ✅     |
+| 박진성                                                                                                     |       |
+| [송대현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_daehyun/2022_10/week_1st)  | ✅     |
+| [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_heeje/2022_10/week_1st)    | ✅     |
+| [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_deokgyun/2022_10/week_1st) | ✅     |
+| [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_gangyun/2022_10/week_1st)  | ✅     |
+| [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_giyong/2022_10/week_1st)   | ✅     |
+| [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_yonghyun/2022_10/week_1st) | ✅     |
 
 <details>
   <summary>
