@@ -9,11 +9,15 @@ def solution(board, moves):
     for move in moves:
         move -= 1
 
-        while depth[move] < size and board[depth[move]][move] == 0:
-            depth[move] += 1
-        
         if depth[move] >= size:
             continue
+
+        try:
+            while board[depth[move]][move] == 0:
+                depth[move] += 1
+        except:
+            continue
+        
         
         if stack[-1] == board[depth[move]][move]:
             stack.pop()
@@ -27,7 +31,7 @@ def solution(board, moves):
         
 
 
-# board = [[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]]
-# moves = [1,5,3,5,1,2,1,4]
+board = [[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]]
+moves = [1,5,3,5,1,2,1,4]
 
-# print(solution(board, moves))
+print(solution(board, moves))
