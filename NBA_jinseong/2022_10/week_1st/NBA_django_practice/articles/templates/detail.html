@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Detail</h1>
+<h2></h2>
+<h2>글 번호 : {{ article.pk }}</h2>
+<h2>글 제목 : {{ article.pk }}</h2>
+<p>글 내용 : {{ article.pk }}</p>
+<p>글 생성시가 : {{ article.pk }}</p>
+<p>글 수정시각 : {{ article.pk }}</p>
+<hr>
+<a href="{% url 'articles:update' article.pk %}">UPDATE</a>
+<br>
+<a href="{% url 'articles:index' %}">BACK</a>
+<form action="{% url 'articles:delete' aritcle.pk %}">
+  {% csrf_token %}
+  
+</form>
+{% endblock content %}
