@@ -176,11 +176,11 @@
 
 ### <br/>📖 **2주차** (22.10.08 ~ 22.10.14)
 
-| 문제 이름                                                                                                                 | 난이도 | 발표자 및 풀이(1팀)    | 발표자 및 풀이(2팀)    |
-|:---------------------------------------------------------------------------------------------------------------------:|:---:|:---------------:|:---------------:|
-| [[SWEA] 1949. 등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&) | D5  | 이강윤, 김태학        | 유덕균, 조용현        |
-| [[BOJ] 7576. 토마토](https://www.acmicpc.net/problem/7576)                                                               | G5  | 양희제, 박윤지(Guest) | 김도언, 김경아(Guest) |
-| [[Programmers] 64061. 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)                   | LV2 | 박진성, 이기용        | 송대현, 양희제        |
+|                          문제 이름                           | 난이도 |                     발표자 및 풀이(1팀)                      |                     발표자 및 풀이(2팀)                      |
+| :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [[SWEA] 1949. 등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&) |   D5   | [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_10/week_2nd/1949.py), [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_10/week_2nd/1949.py) | [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2022_10/week_2nd/1949.py), [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_10/week_2nd/1949.py) |
+|  [[BOJ] 7576. 토마토](https://www.acmicpc.net/problem/7576)  |   G5   | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_2nd/7576.py), 박윤지(Guest) | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_10/week_2nd/7576.py), 김경아(Guest) |
+| [[Programmers] 64061. 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) |  LV2   | [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_10/week_2nd/64061.py), [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_10/week_2nd/64061.py) | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_2nd/64061.py) |
 
 <details>
   <summary>
