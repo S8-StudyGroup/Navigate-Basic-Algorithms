@@ -11,22 +11,23 @@ def solution(n):
     y = 0
     answer[x][y] = 1                                    # 시작점에 1 삽입
     cnt = 2                                             # 2부터 시작!
-    while cnt <= goal:
-        for d in range(3):
+
+    while cnt <= goal:                                  # cnt가 가장 큰 번호보다 커지기 전까지 반복
+        for d in range(3):                              # 델타탐색
             move_x, move_y = x + dx[d], y + dy[d]
             while (
-                0 <= move_x < n
+                0 <= move_x < n                         # 유효성 검사를 통과하면서
                 and 0 <= move_y < len(answer[move_x])
-                and answer[move_x][move_y] == 0
+                and answer[move_x][move_y] == 0         # 숫자를 넣지 않은 곳이면
             ):
-                answer[move_x][move_y] = cnt
-                cnt += 1
-                x, y = move_x, move_y
-                move_x += dx[d]
+                answer[move_x][move_y] = cnt            # 해당 위치에 cnt를 넣고
+                cnt += 1                                # cnt + 1
+                x, y = move_x, move_y                   # x, y 값 변경
+                move_x += dx[d]                         # 해당 방향으로 한 칸 이동
                 move_y += dy[d]
 
     triangle_snail = []
     for row in answer:
-        triangle_snail.extend(row)
+        triangle_snail.extend(row)                      # extend로 리스트들 합치기!
 
     return triangle_snail
