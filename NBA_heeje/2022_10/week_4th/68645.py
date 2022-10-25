@@ -2,14 +2,15 @@
 
 
 def solution(n):
-    dx = [1, 0, -1]
+    dx = [1, 0, -1]     # 삼각 탐색
     dy = [0, 1, -1]
-    answer = [[0] * i for i in range(1, n + 1)]
-    goal = n * (n + 1) // 2
-    cnt = 2
-    x = 0
+
+    answer = [[0] * i for i in range(1, n + 1)]         # 피라미드식 이차원리스트 생성
+    goal = n * (n + 1) // 2                             # 가장 큰 번호
+    x = 0                                               # 시작 좌표
     y = 0
-    answer[x][y] = 1
+    answer[x][y] = 1                                    # 시작점에 1 삽입
+    cnt = 2                                             # 2부터 시작!
     while cnt <= goal:
         for d in range(3):
             move_x, move_y = x + dx[d], y + dy[d]
