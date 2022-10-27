@@ -140,6 +140,58 @@
   </div>
 </details><br>
 
+## <br/>📒 **22년 11월 세부 계획**
+
+### <br/>📖 **1주차** (22.11.01 ~ 22.11.07)
+
+<br>
+
+<strong>✅ 선택 과제</strong>
+
+
+1. <strong>SQLD 시험 관련하여 공부한 흔적(개념 정리, 문제 풀이 등) - 사진도 가능!</strong>
+2. <strong>다음 2문제를 해결하여 풀이 제출(17086.py, 10158.py 생성 후 풀이 제출!)</strong>
+문제1 : [BOJ] 17086. 아기 상어 2 (실버 2)
+링크 : https://www.acmicpc.net/problem/17086
+문제2 : [BOJ] 10158. 개미 (실버 4)
+링크 : https://www.acmicpc.net/problem/10158
+
+|  이름  | 제출 확인 |
+| :----: | :-------: |
+| 김도언 |           |
+| 김태학 |           |
+| 박진성 |           |
+| 송대현 |           |
+| 양희제 |           |
+| 유덕균 |           |
+| 이강윤 |           |
+| 이기용 |           |
+| 조용현 |           |
+
+### <br/>📖 **2주차** (22.11.08 ~ 22.11.14)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+| :-------: | :----: | :-----------------: | :-----------------: |
+|           |        |                     |                     |
+|           |        |                     |                     |
+|           |        |                     |                     |
+
+### <br/>📖 **3주차** (22.11.15 ~ 22.11.21)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+| :-------: | :----: | :-----------------: | :-----------------: |
+|           |        |                     |                     |
+|           |        |                     |                     |
+|           |        |                     |                     |
+
+### <br/>📖 **4주차** (22.11.22 ~ 22.11.28)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
+| :-------: | :----: | :-----------------: | :-----------------: |
+|           |        |                     |                     |
+|           |        |                     |                     |
+|           |        |                     |                     |
+
 ## <br/>📒 **22년 10월 세부 계획**
 
 ### <br/>📖 **1주차** (22.10.01 ~ 22.10.07)
@@ -181,20 +233,20 @@
 
 ### <br/>📖 **3주차** (22.10.15 ~ 22.10.21)
 
-|                                               문제 이름                                               | 난이도 |                                                                                                          발표자 및 풀이(1팀)                                                                                                           |                                                                                                        발표자 및 풀이(2팀)                                                                                                        |
-| :---------------------------------------------------------------------------------------------------: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                      [[BOJ] 15683. 감시](https://www.acmicpc.net/problem/15683)                       |   G4   |  [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_10/week_3rd/15683.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_3rd/15683.py)  |                                                     [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_10/week_3rd/15683.py), 조용현                                                      |
-|  [[Programmers] 87694. 아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)  |  LV3   |    [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_10/week_3rd/87694.py), [박승재(Guest)](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/team1/87694.py)     |                                                         [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_3rd/87694.py)                                                          |
-| [[Programmers] 67256. 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) |  LV1   | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_10/week_3rd/67256.py), [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_10/week_3rd/67256.py) | [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2022_10/week_3rd/67256.py), [장현혁(Guest)](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/team2/67256.py) |
+|                                               문제 이름                                               | 난이도 |                                                                                                          발표자 및 풀이(1팀)                                                                                                           |                                                                                                          발표자 및 풀이(2팀)                                                                                                          |
+| :---------------------------------------------------------------------------------------------------: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                      [[BOJ] 15683. 감시](https://www.acmicpc.net/problem/15683)                       |   G4   |  [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_10/week_3rd/15683.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_3rd/15683.py)  | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_10/week_3rd/15683.py), [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_10/week_3rd/15683.py) |
+|  [[Programmers] 87694. 아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)  |  LV3   |    [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_10/week_3rd/87694.py), [박승재(Guest)](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/team1/87694.py)     |                                                           [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_3rd/87694.py)                                                            |
+| [[Programmers] 67256. 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) |  LV1   | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_10/week_3rd/67256.py), [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_10/week_3rd/67256.py) |   [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2022_10/week_3rd/67256.py), [장현혁(Guest)](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/team2/67256.py)   |
 
 
 ### <br/>📖 **4주차** (22.10.22 ~ 22.10.28)
 
-|                                                            문제 이름                                                             | 난이도 |  발표자 및 풀이(1팀)  |  발표자 및 풀이(2팀)  |
-| :------------------------------------------------------------------------------------------------------------------------------: | :----: | :-------------------: | :-------------------: |
-| [[SWEA] 14510. 나무 높이](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4) |   D3   |    김태학, 양희제     | 조용현, 전동준(Guest) |
-|                                 [[BOJ] 16236. 아기 상어](https://www.acmicpc.net/problem/16236)                                  |   G3   | 이강윤, 허정범(Guest) |    김도언, 유덕균     |
-|               [[Programmers] 68645. 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                |  LV2   |    이기용, 박진성     |        양희제         |
+|                                                            문제 이름                                                             | 난이도 |                                                                                                          발표자 및 풀이(1팀)                                                                                                           |                                                                                                          발표자 및 풀이(2팀)                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [[SWEA] 14510. 나무 높이](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4) |   D3   |  [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_10/week_4th/14510.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_4th/14510.py)   |                                                  [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_10/week_4th/14510.py), 전동준(Guest)                                                   |
+|                                 [[BOJ] 16236. 아기 상어](https://www.acmicpc.net/problem/16236)                                  |   G3   |                                                   [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_10/week_4th/16236.py), 허정범(Guest)                                                    | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_10/week_4th/16236.py), [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2022_10/week_4th/16236.py) |
+|               [[Programmers] 68645. 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                |  LV2   | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_10/week_4th/68645.py), [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_10/week_4th/68645.py) |                                                           [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_4th/68645.py)                                                            |
 
 
 
