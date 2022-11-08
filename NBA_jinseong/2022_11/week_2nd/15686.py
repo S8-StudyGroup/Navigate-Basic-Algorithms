@@ -14,22 +14,29 @@
 def chicken(start, houses):
     global chicken_distance
 
-    if len(houses) == M or start >= len(chicken_houses):    # 최대 개수만큼 찾거나 치킨집 끝까지 돌았으면
+    if len(houses) == M:                                    # 최대 개수만큼 찾거나 치킨집 끝까지 돌았으면
         each_case_distance = 0                              # 치킨집 정리 후 각 케이스에 대한 치킨 거리들
+
         for normal_house in normal_houses:                  # 각 집에 대해서
             each_distance = []                              # 한 집에서의 치킨 거리
             normal_r, normal_c = normal_house
-            for chicken_house in chicken_houses:            # 각 치킨집에 대해서
+
+            for chicken_house in houses:                    # 각 치킨집에 대해서
                 chicken_r, chicken_c = chicken_house
                 distance = abs(chicken_r - normal_r) + abs(chicken_c - normal_c)
                 each_distance.append(distance)
+
             each_case_distance += min(each_distance)        # 한집의 치킨거리 저장
+
         if each_case_distance < chicken_distance:
             chicken_distance = each_case_distance
         return
 
+    if start >= len(chicken_houses):
+        return
+
     # 고르기
-    houses.append(chicken_houses[start])
+    houses.append(chicken_houses[start])                    # 좌표저장
     chicken(start + 1, houses)
     houses.pop()
     # 안고르기
