@@ -14,7 +14,7 @@ def solution(n, info):
             score_0.add(score)
 
     # 경우의 수마다
-    score_diff_max = 1
+    score_diff_max = 0
     for scores in combinations_with_replacement(range(11), n):
         check = deepcopy(info)
         for score in scores:
@@ -29,14 +29,14 @@ def solution(n, info):
             elif cnt >= 0 and score in score_0 :
                 apeach += score
 
-        # print(score_0, scores, check, lion, apeach)
         score_diff = lion - apeach
+        # print(info, scores, check, (lion, apeach, score_diff))
 
         if score_diff > score_diff_max:
             score_diff_max = score_diff
-            answer = [tuple(scores)]
-        elif score_diff == score_diff_max and score_diff_max != -1:
-            answer.append(tuple(scores))
+            answer = [scores]
+        elif score_diff == score_diff_max and score_diff_max != 0:
+            answer.append(scores)
     
 
     final_result = []
