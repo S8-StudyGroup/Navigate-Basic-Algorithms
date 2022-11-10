@@ -241,7 +241,7 @@
 
 | 문제 이름                                                                                                                        | 난이도 | 발표자 및 풀이(1팀)                                                                                                                                                                                                                     | 발표자 및 풀이(2팀)                                                                                                                                                                                                                    |
 |:----------------------------------------------------------------------------------------------------------------------------:|:---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [[SWEA] 14510. 나무 높이](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4) | D3  | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_10/week_4th/14510.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_4th/14510.py)    | [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_10/week_4th/14510.py), 전동준(Guest)                                                                                                    |
+| [[SWEA] 14510. 나무 높이](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4) | D3  | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_10/week_4th/14510.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_4th/14510.py)    | [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_10/week_4th/14510.py), [전동준(Guest)](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_GUEST/team2/14510.py)     |
 | [[BOJ] 16236. 아기 상어](https://www.acmicpc.net/problem/16236)                                                                  | G3  | [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_10/week_4th/16236.py), 허정범(Guest)                                                                                                      | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_10/week_4th/16236.py), [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2022_10/week_4th/16236.py) |
 | [[Programmers] 68645. 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                               | LV2 | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_10/week_4th/68645.py), [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_10/week_4th/68645.py) | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_10/week_4th/68645.py)                                                                                                                   |
 
@@ -433,11 +433,7 @@ q1 = deque(maxlen=9) # 최대 길이가 9인 deque 생성
 | [[SWEA] 1211. Ladder2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14BgD6AEECFAYh) | D4  | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/09/week_3rd/1211.py), [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/09/week_3rd/1211.py)     | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/09/week_3rd/1211.py), [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/09/week_3rd/1211.py)     |
 | [[Programmers] 17681. [1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                     | LV1 | [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/09/week_3rd/17681.py), [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/09/week_3rd/17681.py) | [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/09/week_3rd/17681.py), [송대현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/09/week_3rd/17681.py) |
 
-<details>
-  <summary>
-    <b>9월 3주차 회의 내용 관련 개념 정리</b>
-  </summary>
-</details>
+
 
 ### <br/>📖 **4주차** (22.09.22 ~ 22.09.28)
 
@@ -452,11 +448,7 @@ q1 = deque(maxlen=9) # 최대 길이가 9인 deque 생성
 | [[SWEA] 5178. 노드의 합](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg)                                                                                                                                                            | D3  | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_09/week_4th/5178%20%EB%85%B8%EB%93%9C%EC%9D%98%20%ED%95%A9.py) | -                                                                                                                    |
 | [[BOJ] 1991. 트리 순회](https://www.acmicpc.net/problem/1991)                                                                                                                                                                                                                                            | S1  | -                                                                                                                                                       | [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_09/week_4th/problem_1.py) |
 
-<details>
-  <summary>
-    <b>9월 4주차 회의 내용 관련 개념 정리</b>
-  </summary>
-</details>
+
 
 ## <br/>📒 **22년 8월 세부 계획**
 
