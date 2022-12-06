@@ -140,6 +140,44 @@
   </div>
 </details><br>
 
+## <br/>📒 **22년 12월 세부 계획(자율 참가)**
+
+### <br/>📖 **1주차** (22.12.01 ~ 22.12.07)
+
+| 문제 이름                                                                                               | 난이도 | 발표자 및 풀이 |
+|:---------------------------------------------------------------------------------------------------:|:---:|:--------:|
+| [[Programmers] 72410. 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)   | LV1 | 박진성, 유덕균 |
+| [[BOJ] 7569. 토마토(3차원)](https://www.acmicpc.net/problem/7569)                                        | G5  | 이기용, 조용현 |
+| [[Programmers] 77485. 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | LV2 | 김도언, 양희제 |
+| [[BOJ] 2638. 치즈](https://www.acmicpc.net/problem/2638)                                              | G3  | 이강윤, 김태학 |
+
+### <br/>📖 **2주차** (22.12.08 ~ 22.12.14)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이 |
+|:-----:|:---:|:--------:|
+|       |     |          |
+|       |     |          |
+|       |     |          |
+|       |     |          |
+
+### <br/>📖 **3주차** (22.12.15 ~ 22.12.21)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이 |
+|:-----:|:---:|:--------:|
+|       |     |          |
+|       |     |          |
+|       |     |          |
+|       |     |          |
+
+### <br/>📖 **4주차** (22.12.22 ~ 22.12.28)
+
+| 문제 이름 | 난이도 | 발표자 및 풀이 |
+|:-----:|:---:|:--------:|
+|       |     |          |
+|       |     |          |
+|       |     |          |
+|       |     |          |
+
 ## <br/>📒 **22년 11월 세부 계획**
 
 ### <br/>📖 **1주차** (22.11.01 ~ 22.11.07)
@@ -165,33 +203,19 @@
 | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_heeje/2022_11/week_1st)    | ✅     |
 | [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_deokgyun/2022_11/week_1st) | ✅     |
 | [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_gangyun/2022_11/week_1st)  | ✅     |
-| 이기용                                                                                                     |       |
-| 조용현                                                                                                     |       |
+| [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_giyong/2022_11/week_1st)   | ✅     |
+| [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/tree/master/NBA_yonghyun/2022_11/week_1st) | ✅     |
 
 ### <br/>📖 **2주차** (22.11.08 ~ 22.11.14)
 
-| 문제 이름                                                                                        | 난이도 | 발표자 및 풀이                                                                                                                                                                                                                                                                                                                                              |
-|:--------------------------------------------------------------------------------------------:|:---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [[BOJ] 14501. 퇴사](https://www.acmicpc.net/problem/14501)                                     | S3  | 이기용, [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_11/week_2nd/14501.py), [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_11/week_2nd/14501.py), [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_11/week_2nd/14501.py) |
-| [[BOJ] 15686. 치킨 배달](https://www.acmicpc.net/problem/15686)                                  | G5  | 조용현, [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2022_11/week_2nd/15686.py)                                                                                                                                                                                                                                 |
-| [[Programmers] 92342. 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | LV2 | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_11/week_2nd/92342.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_11/week_2nd/92342.py)                                                                                                                         |
+| 문제 이름                                                                                        | 난이도 | 발표자 및 풀이                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:--------------------------------------------------------------------------------------------:|:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [[BOJ] 14501. 퇴사](https://www.acmicpc.net/problem/14501)                                     | S3  | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_11/week_2nd/14501.py), [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_11/week_2nd/14501.py), [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_11/week_2nd/14501.py), [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_11/week_2nd/14501.py) |
+| [[BOJ] 15686. 치킨 배달](https://www.acmicpc.net/problem/15686)                                  | G5  | [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_11/week_2nd/15686.py), [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2022_11/week_2nd/15686.py)                                                                                                                                                                                                                               |
+| [[Programmers] 92342. 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | LV2 | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_11/week_2nd/92342.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_11/week_2nd/92342.py)                                                                                                                                                                                                                                    |
 
-### <br/>📖 **3주차** (22.11.15 ~ 22.11.21)
+### <br/>📖 3 ~ 4주차 회의 생략(최종 프로젝트 준비)
 
-| 문제 이름                                                                                               | 난이도 | 발표자 및 풀이   |
-|:---------------------------------------------------------------------------------------------------:|:---:|:----------:|
-| [[Programmers] 72410. 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)   | LV1 | 박진성, (이강윤) |
-| [[BOJ] 7569. 토마토(3차원)](https://www.acmicpc.net/problem/7569)                                        | G5  | 이기용, (조용현) |
-| [[Programmers] 77485. 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | LV2 | 김도언, (양희제) |
-| [[BOJ] 2638. 치즈](https://www.acmicpc.net/problem/2638)                                              | G3  | 유덕균, (김태학) |
-
-### <br/>📖 **4주차** (22.11.22 ~ 22.11.28)
-
-| 문제 이름 | 난이도 | 발표자 및 풀이(1팀) | 발표자 및 풀이(2팀) |
-|:-----:|:---:|:------------:|:------------:|
-|       |     |              |              |
-|       |     |              |              |
-|       |     |              |              |
 
 ## <br/>📒 **22년 10월 세부 계획**
 
@@ -433,8 +457,6 @@ q1 = deque(maxlen=9) # 최대 길이가 9인 deque 생성
 | [[SWEA] 1211. Ladder2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14BgD6AEECFAYh) | D4  | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/09/week_3rd/1211.py), [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/09/week_3rd/1211.py)     | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/09/week_3rd/1211.py), [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/09/week_3rd/1211.py)     |
 | [[Programmers] 17681. [1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                     | LV1 | [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/09/week_3rd/17681.py), [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/09/week_3rd/17681.py) | [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/09/week_3rd/17681.py), [송대현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_daehyun/09/week_3rd/17681.py) |
 
-
-
 ### <br/>📖 **4주차** (22.09.22 ~ 22.09.28)
 
 | 문제 이름                                                                                                                                                                                                                                                                                                | 난이도 | 발표자 및 풀이(1팀)                                                                                                                                            | 발표자 및 풀이(2팀)                                                                                                         |
@@ -447,8 +469,6 @@ q1 = deque(maxlen=9) # 최대 길이가 9인 deque 생성
 | [Programmers] Test. 이모티콘                                                                                                                                                                                                                                                                             | LV3 | [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_09/week_4th/kakao_3.py)                                       | -                                                                                                                    |
 | [[SWEA] 5178. 노드의 합](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg)                                                                                                                                                            | D3  | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_09/week_4th/5178%20%EB%85%B8%EB%93%9C%EC%9D%98%20%ED%95%A9.py) | -                                                                                                                    |
 | [[BOJ] 1991. 트리 순회](https://www.acmicpc.net/problem/1991)                                                                                                                                                                                                                                            | S1  | -                                                                                                                                                       | [조용현](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2022_09/week_4th/problem_1.py) |
-
-
 
 ## <br/>📒 **22년 8월 세부 계획**
 
