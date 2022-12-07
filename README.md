@@ -153,12 +153,12 @@
 
 ### <br/>📖 **2주차** (22.12.08 ~ 22.12.14)
 
-| 문제 이름 | 난이도 | 발표자 및 풀이 |
-|:-----:|:---:|:--------:|
-|       |     |          |
-|       |     |          |
-|       |     |          |
-|       |     |          |
+| 문제 이름                                                                                                               | 난이도 | 발표자 및 풀이 |
+|:-------------------------------------------------------------------------------------------------------------------:|:---:|:--------:|
+| [[Programmers] 42889. 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                         | LV1 |          |
+| [[BOJ] 2502. 떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)                                                        | S1  |          |
+| [[SWEA] 2112. 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) | D5  |          |
+| [[BOJ] 20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)                                                 | G3  |          |
 
 ### <br/>📖 **3주차** (22.12.15 ~ 22.12.21)
 
@@ -215,7 +215,6 @@
 | [[Programmers] 92342. 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | LV2 | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_11/week_2nd/92342.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_11/week_2nd/92342.py)                                                                                                                                                                                                                                    |
 
 ### <br/>📖 3 ~ 4주차 회의 생략(최종 프로젝트 준비)
-
 
 ## <br/>📒 **22년 10월 세부 계획**
 
