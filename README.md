@@ -144,30 +144,30 @@
 
 ### <br/>📖 **1주차** (22.12.01 ~ 22.12.07)
 
-| 문제 이름                                                                                               | 난이도 | 발표자 및 풀이 |
-|:---------------------------------------------------------------------------------------------------:|:---:|:--------:|
-| [[Programmers] 72410. 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)   | LV1 | 박진성, 유덕균 |
-| [[BOJ] 7569. 토마토(3차원)](https://www.acmicpc.net/problem/7569)                                        | G5  | 이기용, 조용현 |
-| [[Programmers] 77485. 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | LV2 | 김도언, 양희제 |
-| [[BOJ] 2638. 치즈](https://www.acmicpc.net/problem/2638)                                              | G3  | 이강윤, 김태학 |
+| 문제 이름                                                                                               | 난이도 | 발표자 및 풀이                                                                                                                                                                                                                      |
+|:---------------------------------------------------------------------------------------------------:|:---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [[Programmers] 72410. 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)   | LV1 | [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_12/week_1st/72410.py)                                                                                                              |
+| [[BOJ] 7569. 토마토(3차원)](https://www.acmicpc.net/problem/7569)                                        | G5  | [이기용](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2022_12/week_1st/7569.py)                                                                                                                 |
+| [[Programmers] 77485. 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | LV2 | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_12/week_1st/77485.py), [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_12/week_1st/77485.py)  |
+| [[BOJ] 2638. 치즈](https://www.acmicpc.net/problem/2638)                                              | G3  | [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_12/week_1st/2638.py), [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_12/week_1st/2638.py) |
 
 ### <br/>📖 **2주차** (22.12.08 ~ 22.12.14)
 
-| 문제 이름                                                                                                               | 난이도 | 발표자 및 풀이 |
-|:-------------------------------------------------------------------------------------------------------------------:|:---:|:--------:|
-| [[Programmers] 42889. 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                         | LV1 |          |
-| [[BOJ] 2502. 떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)                                                        | S1  |          |
-| [[SWEA] 2112. 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) | D5  |          |
-| [[BOJ] 20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)                                                 | G3  |          |
+| 문제 이름                                                                                                               | 난이도 | 발표자 및 풀이                                                                                                                                                                                                                      |
+|:-------------------------------------------------------------------------------------------------------------------:|:---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [[Programmers] 42889. 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                         | LV1 | [유덕균](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2022_12/week_2nd/42889.py)                                                                                                              |
+| [[BOJ] 2502. 떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)                                                        | S1  | [김도언](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2022_12/week_2nd/2502.py)                                                                                                                  |
+| [[SWEA] 2112. 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) | D5  | [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_12/week_2nd/2112.py)                                                                                                                |
+| [[BOJ] 20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)                                                 | G3  | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_12/week_2nd/20058.py), [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_12/week_2nd/20058.py) |
 
 ### <br/>📖 **3주차** (22.12.15 ~ 22.12.21)
 
-| 문제 이름 | 난이도 | 발표자 및 풀이 |
-|:-----:|:---:|:--------:|
-|       |     |          |
-|       |     |          |
-|       |     |          |
-|       |     |          |
+| 문제 이름                                                                                                                  | 난이도 | 발표자 및 풀이 |
+|:----------------------------------------------------------------------------------------------------------------------:|:---:|:--------:|
+| [[BOJ] 1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)                                                     | S1  |          |
+| [[SWEA] 2806. N-Queen](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB&) | D3  |          |
+| [[SWEA] 2477. 차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy)   | D5  |          |
+| [[BOJ] 20057. 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)                                                     | G3  |          |
 
 ### <br/>📖 **4주차** (22.12.22 ~ 22.12.28)
 
