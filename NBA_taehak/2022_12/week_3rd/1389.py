@@ -16,9 +16,27 @@ def bfs(start):
     kevin = [0] * (node_cnt + 1)
     visited = set()
     que = deque()
-    
+
     visited.add(start)
     que.append(start)
 
     while que:
         node = que.popleft()
+        for n_node in graph[node]:
+            if n_node not in visited:
+                kevin[n_node] = kevin[node] + 1
+                visited.add(n_node)
+                que.append(n_node)
+    
+    return sum(kevin)
+
+
+min_kevin = 9999
+answer = -1
+for node_num in range(1, node_cnt + 1):
+    node_kevin = bfs(node_num)
+    if node_kevin < min_kevin:
+        min_kevin = node_kevin
+        answer = node_num
+print(answer)
+
