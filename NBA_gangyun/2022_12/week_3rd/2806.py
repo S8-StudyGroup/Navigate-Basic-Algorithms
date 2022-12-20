@@ -1,26 +1,42 @@
 # [SWEA] 2806. N-Queen
 
-# 상 우상 우 우하 하 좌하 좌 좌상
-di = [-1, -1, 0, 1, 1, 1, 0, -1]
-dj = [0, 1, 1, 1, 0, -1, -1, -1]
+def dfs(row, col):
+    global count
+    board[row][col] += 1
 
+    if row == N - 1:
+        count += 1
+        return
 
-def check_queen(i, j):
-    for direction in range(8):
-        for k in range(N):
-            check_i = i + di[direction] * k
-            check_j = j + dj[direction] * k
-            if 0 <= check_i < N and 0 <= check_j < N and board[check_i][check_j] == 0:
-                board[check_i][check_j] = 1
+    for i in range(1, N):
+        board[i][col] += 1
+        board[row][i] += 1
+        if row + i < N and col + i < N:
+            board[row + i][col + i] += 1
+        if row + i < N and col - i >= 0:
+            board[row + i][col - i] += 1
+
+    next_row = row + 1
+    for next_col in range(N):
+        if board[next_row][next_col] == 0:
+            dfs(next_row, next_col)
+            board[next_row][next_col] -= 1
+
+    for i in range(1, N):
+        board[i][col] -= 1
+        board[row][i] -= 1
+        if row + i < N and col + i < N:
+            board[row + i][col + i] -= 1
+        if row + i < N and col - i >= 0:
+            board[row + i][col - i] -= 1
 
 
 for test_case in range(1, int(input()) + 1):
     N = int(input())
     board = [[0] * N for _ in range(N)]
-    print(board)
-    for row in range(N):
-        for col in range(N):
-            if board[row][col] == 0:
-                board[row][col] = 2
-                check_queen(row, col)
-                print(board)
+    count = 0
+    for i in range(N):
+        dfs(0, i)
+        board = [[0] * N for _ in range(N)]
+
+    print(f'#{test_case} {count}')
