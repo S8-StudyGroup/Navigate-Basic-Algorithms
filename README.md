@@ -140,7 +140,7 @@
   </div>
 </details><br>
 
-## <br/>📒 **22년 12월 세부 계획(자율 참가)**
+## <br/>📒 **22년 12월 세부 계획(★ 자율 참가 ★)**
 
 ### <br/>📖 **1주차** (22.12.01 ~ 22.12.07)
 
@@ -162,21 +162,14 @@
 
 ### <br/>📖 **3주차** (22.12.15 ~ 22.12.21)
 
-| 문제 이름                                                                                                                  | 난이도 | 발표자 및 풀이 |
-|:----------------------------------------------------------------------------------------------------------------------:|:---:|:--------:|
-| [[BOJ] 1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)                                                     | S1  |          |
-| [[SWEA] 2806. N-Queen](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB&) | D3  |          |
-| [[SWEA] 2477. 차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy)   | D5  |          |
-| [[BOJ] 20057. 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)                                                     | G3  |          |
+| 문제 이름                                                                                                                  | 난이도 | 발표자 및 풀이                                                                                                        |
+|:----------------------------------------------------------------------------------------------------------------------:|:---:|:---------------------------------------------------------------------------------------------------------------:|
+| [[BOJ] 1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)                                                     | S1  | [박진성](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2022_12/week_3rd/1389.py) |
+| [[SWEA] 2806. N-Queen](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB&) | D3  | [양희제](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2022_12/week_3rd/2806.py)    |
+| [[SWEA] 2477. 차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy)   | D5  | [김태학](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_taehak/2022_12/week_3rd/2477.py)   |
+| [[BOJ] 20057. 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)                                                     | G3  | [이강윤](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2022_12/week_3rd/20057.py) |
 
-### <br/>📖 **4주차** (22.12.22 ~ 22.12.28)
-
-| 문제 이름 | 난이도 | 발표자 및 풀이 |
-|:-----:|:---:|:--------:|
-|       |     |          |
-|       |     |          |
-|       |     |          |
-|       |     |          |
+### <br/>📖 **4주차** 회의 생략(2학기 대비)
 
 ## <br/>📒 **22년 11월 세부 계획**
 
