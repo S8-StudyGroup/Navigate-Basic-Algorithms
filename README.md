@@ -145,39 +145,41 @@
 
 ### <br/>📖 **1주차** (23.01.01 ~ 23.01.07)
 
-| 문제 이름 | 난이도 | 발표자 및 풀이 |
-|:-----:|:---:|:--------:|
-|       |     |          |
-|       |     |          |
-|       |     |          |
-|       |     |          |
+| 이름      | 문제                                                                                                                                                                                                                                                                  | 풀이                                                                                                                  |
+|:-------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
+| **유덕균** | [[BOJ] 2012. 등수 매기기](https://www.acmicpc.net/problem/2012)                                                                                                                                                                                                          | [바로가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2023_01/week_1st/2012.py)    |
+| **김도언** | [[BOJ] 14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)                                                                                                                                                                                                       | [바로가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2023_01/week_1st/14889.py)      |
+| **이강윤** | [[BOJ] 13335. 트럭](https://www.acmicpc.net/problem/13335)                                                                                                                                                                                                            | [바로가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2023_01/week_1st/14889.py)      |
+| **이기용** | [[BOJ] 1260. DFS와 BFS](https://www.acmicpc.net/problem/1260)                                                                                                                                                                                                        | [바로가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_giyong/2023_01/week_1st/problem.py)   |
+| **양희제** | [[BOJ] 14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)                                                                                                                                                                                                       | [바로가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2023_01/week_1st/14889.py)      |
+| **박진성** | [[SWEA] 1244. 최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=1244&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [바로가기](https://github.com/HeeJeYang/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2023_01/week_1st/problem.py) |
 
 ### <br/>📖 **2주차** (23.01.08 ~ 23.01.14)
 
-| 문제 이름 | 난이도 | 발표자 및 풀이 |
-|:-----:|:---:|:--------:|
-|       |     |          |
-|       |     |          |
-|       |     |          |
-|       |     |          |
+| 이름  | 문제  | 풀이  |
+|:---:|:---:|:---:|
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
 ### <br/>📖 **3주차** (23.01.15 ~ 23.01.21)
 
-| 문제 이름 | 난이도 | 발표자 및 풀이 |
-|:-----:|:---:|:--------:|
-|       |     |          |
-|       |     |          |
-|       |     |          |
-|       |     |          |
+| 이름  | 문제  | 풀이  |
+|:---:|:---:|:---:|
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
 ### <br/>📖 **4주차** (23.01.22 ~ 23.01.28)
 
-| 문제 이름 | 난이도 | 발표자 및 풀이 |
-|:-----:|:---:|:--------:|
-|       |     |          |
-|       |     |          |
-|       |     |          |
-|       |     |          |
+| 이름  | 문제  | 풀이  |
+|:---:|:---:|:---:|
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
 ## <br/>📒 **22년 12월 세부 계획(★ 자율 참가 ★)**
 
