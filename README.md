@@ -156,12 +156,14 @@
 
 ### <br/>📖 **2주차** (23.01.08 ~ 23.01.14)
 
-| 이름  | 문제  | 풀이  |
-|:---:|:---:|:---:|
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| 이름      | 문제                                                               | 풀이                                                                                                                        |
+|:-------:|:----------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| **유덕균** | [[BOJ] 2755. 이번학기 평점은 몇점?](https://www.acmicpc.net/problem/2755) | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2023_01/week_2nd/2755.py)      |
+| **김도언** | [[BOJ] 9020. 골드바흐의 추측](https://www.acmicpc.net/problem/9020)     | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2023_01/week_2nd/9020.py)         |
+| **이강윤** | [[BOJ] 1748. 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)    | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_gangyun/2023_01/week_2nd/BOJ_1748.java) |
+| **양희제** | [[BOJ] 4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948)      | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2023_01/week_2nd/4948.py)         |
+| **박진성** | [[BOJ] 15686. 치킨 배달](https://www.acmicpc.net/problem/15686)      | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_jinseong/2023_01/week_2nd/problem.py)   |
+| 조용현     | [[BOJ] 14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)    | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2023_01/week_2nd/problem.py)   |
 
 ### <br/>📖 **3주차** (23.01.15 ~ 23.01.21)
 
