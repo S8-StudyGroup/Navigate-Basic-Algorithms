@@ -1,0 +1,14 @@
+# [BOJ] 2012. 등수 매기기
+
+n = int(input())
+fore = []
+for _ in range(n):
+    fore.append(int(input()))
+
+fore.sort()
+
+diff = 0
+for i in range(n):
+    diff += abs(i + 1 - fore[i])
+
+print(diff)
