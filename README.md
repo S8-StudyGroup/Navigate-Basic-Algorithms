@@ -167,12 +167,12 @@
 
 ### <br/>📖 **3주차** (23.01.15 ~ 23.01.21)
 
-| 이름  | 문제  | 풀이  |
-|:---:|:---:|:---:|
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| 이름      | 문제                                                                                                | 풀이                                                                                                                                                           |
+|:-------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **유덕균** | [[Programmers] 120956. 옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_deokgyun/2023_01/week_3rd/problem.js)                                      |
+| **김도언** | [[BOJ] 18870. 좌표 압축](https://www.acmicpc.net/problem/18870)                                       | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2023_01/week_3rd/problem.py)                                         |
+| **양희제** | [[BOJ] 16928. 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)                                   | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2023_01/week_3rd/16928.py)                                           |
+| 조용현     | [[BOJ] 2012. 등수 매기기](https://www.acmicpc.net/problem/2012)                                        | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2023_01/week_3rd/problem.py.26c84fb3e05bf8d204b056703c4d37a6.tmp) |
 
 ### <br/>📖 **4주차** (23.01.22 ~ 23.01.28)
 
