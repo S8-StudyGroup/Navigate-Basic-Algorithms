@@ -1,3 +1,10 @@
+### **📌 23.01.21 이후 종료된 스터디입니다.**
+### **[➡️ [진행 중인 스터디로 이동하기]](https://github.com/heeje-factory/Navigate-Best-Algorithms)**
+
+<hr />
+
+<br />
+
 # **Navigate-Basic-Algorithms**
 
 기본적인 알고리즘 문제들을 함께 해결해보는 공간, NBA입니다.
@@ -173,15 +180,6 @@
 | **김도언** | [[BOJ] 18870. 좌표 압축](https://www.acmicpc.net/problem/18870)                                       | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_doeon/2023_01/week_3rd/problem.py)                                         |
 | **양희제** | [[BOJ] 16928. 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)                                   | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_heeje/2023_01/week_3rd/16928.py)                                           |
 | 조용현     | [[BOJ] 2012. 등수 매기기](https://www.acmicpc.net/problem/2012)                                        | [바로가기](https://github.com/heeje-factory/Navigate-Basic-Algorithms/blob/master/NBA_yonghyun/2023_01/week_3rd/problem.py.26c84fb3e05bf8d204b056703c4d37a6.tmp) |
-
-### <br/>📖 **4주차** (23.01.22 ~ 23.01.28)
-
-| 이름  | 문제  | 풀이  |
-|:---:|:---:|:---:|
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
 
 ## <br/>📒 **22년 12월 세부 계획(★ 자율 참가 ★)**
 
